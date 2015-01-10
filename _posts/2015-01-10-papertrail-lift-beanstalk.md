@@ -14,7 +14,7 @@ tags:
 
 [Papertrail](https://papertrailapp.com/) is a web-based log management tool. It aggregates log messages from your applications, allowing you to  view and search them from a web console. It's web-based `tail -f` and `grep` in one.
 
-Setting up Papertrail with Lift on AWS isn't hard, but there are a couple of steps that I didn't think were obvious. You'll find the steps listed out below.
+Setting up Papertrail with the [Lift Web Framework](http://liftweb.net/) on [Beanstalk](http://aws.amazon.com/elasticbeanstalk/) isn't hard, but there are a couple of steps that I didn't think were obvious. You'll find the steps listed out below.
 
 The title of this posts talks of Beanstalk and Lift, but much of what is here is probably applicable to any JVM framework, raw EC2 deployments, and possibly other cloud hosting.
 
