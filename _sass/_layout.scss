@@ -2,12 +2,12 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 2px solid silver;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background-color:  #0099CC;
 }
 
 .site-title {
@@ -19,7 +19,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: whitesmoke;
     }
 }
 
@@ -32,7 +32,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: whitesmoke;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -217,7 +217,7 @@ font-weight: bold;
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 64px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -230,7 +230,8 @@ font-weight: bold;
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 24px;
+        color:  #0099CC;
 
         @include media-query($on-laptop) {
             font-size: 28px;
