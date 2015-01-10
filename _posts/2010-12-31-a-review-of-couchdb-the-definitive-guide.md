@@ -2,7 +2,7 @@
 layout: post
 comments: true
 permalink: /:title
-title: 'A review of &#34;CouchDB: The Definitive Guide&#34;'
+title: 'A Review of &#34;CouchDB: The Definitive Guide&#34;'
 author: Richard
 date: 2010/12/31
 alias: /a-review-of-couchdb-the-definitive-guide
@@ -16,14 +16,14 @@ Anderson, Jan Lehnardt and Noah Slater.
 
 Published by O'Reilly Media, and [available online under a Creative Commons license.][]
 
-**Summary**
+## Summary
 
 This first edition is inevitably out-of-date compared to 1.0 of CouchDB,
 has room for improvement, but is nevertheless a useful introduction to
 CouchDB and thinking about things in the CouchDB-way.  A pleasure to
 read.
 
-**Review**
+## Review
 
 The sense I get of NoSQL products, such as CouchDB, is that they are
 good for certain kinds of problem and have potentially great performance
@@ -69,7 +69,7 @@ languages have HTTP and JSON libraries".  Many of the examples in the
 book use cURL to show exactly what's happening when interacting with
 CouchDB.
 
-**Queries**
+## Queries
 
 Queries, called views in CouchDB, consist of a map function and an
 optional reduce function, both implemented in JavaScript.  The map part
@@ -101,7 +101,7 @@ explaining how the magic works under the covers.  I don't need to know
 this, but it's great to see this in front of you, rather than just
 hand-wave about what CouchDB is capable of.
 
-**Beyond the basics**
+## Beyond the basics
 
 CouchDB doesn't stop at document storage and retrieval.  There are two
 other key elements.  The first is that CouchDB can host  whole
@@ -144,7 +144,7 @@ and the data can be replicated to clients, who can then fork the data
 and application and optionally push it back.  Or you can lock it down.
  But an interesting angle, I feel, for app development.
 
-**Likes and dislikes**
+## Likes and dislikes
 
 What I'd like to see more of in this book are the idioms or patterns for
 document thinking.  For example, there's a section describing how to
@@ -192,7 +192,7 @@ version of the blog example worked.
 But those are small complaints, and overall the book does a good job of
 introducing the CouchDB way of thinking, and was a pleasure to read.
 
-  [cover]: http://akamaicovers.oreilly.com/images/9780596155902/cat.gifgif?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1342030281&Signature=x1AUs5SOoRIEwwYylLEsTJrfpR4%3D
+  [cover]: http://akamaicovers.oreilly.com/images/9780596155902/lrg.jpg
   [CouchDB: The Definitive Guide]: http://oreilly.com/catalog/9780596155896/
   [available online under a Creative Commons license.]: http://guide.couchdb.org/
   [web scale]: http://nosql.mypopescu.com/post/1016320617/mongodb-is-web-scale
