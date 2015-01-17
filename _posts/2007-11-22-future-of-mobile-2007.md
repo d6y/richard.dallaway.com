@@ -9,7 +9,8 @@ alias: /future-of-mobile-2007
 tags:
 ---
 
-<a href="http://d6y.trovebox.com/photos/tags-futureofmobile/list"><img width="380" src="http://awesomeness.openphoto.me/custom/201207/17ef39-2007.11.14.13.13.13-2017938498_870x550.jpg"/></a>
+
+<a href="https://www.flickr.com/search/?text=futureofmobile&sort=relevance&user_id=83551313%40N00" title="Daniel Appelquist by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2104/2017938498_ed1f422b09_z.jpg?zz=1" width="480" height="640" alt="Daniel Appelquist"></a>
 
 What follows are the remarks or thoughts I noted down...
 

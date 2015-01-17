@@ -44,7 +44,7 @@ when using the ye olde synchronized `Hashtable`, the spanky new
 returns anything. The idea here is just to provide a sanity check of how
 my laptop performs under increasing load.
 
-<a href="http://d6y.trovebox.com/p/9l"><img src="http://awesomeness.openphoto.me/custom/201207/6fdc4f-2007.11.20.11.34.52-2049224793_870x550.jpg" width="500"/></a>
+<a href="https://www.flickr.com/photos/d6y/2049224793" title="Baseline machine performance by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2096/2049224793_4d6137f7c5_o.jpg" width="645" height="319" alt="Baseline machine performance"></a>
 
 
 Here's what you're looking at. Along the x-axis is the number of threads
@@ -77,7 +77,7 @@ because noop always causes both a get and a put on the cache).
 So much for the baseline measurements. Now let's see what happens with
 the Java caching implementations:
 
-<a href="http://d6y.trovebox.com/p/9m"><img src="http://awesomeness.openphoto.me/custom/201207/86cb13-2007.11.20.11.34.54-2050011022_870x550.jpg" width="500"/></a>
+<a href="https://www.flickr.com/photos/d6y/2050011022" title="Caching performance by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2258/2050011022_6f0a4e0fcb_o.jpg" width="637" height="283" alt="Caching performance"></a>
 
 The first thing I need to say is that these tests are for local,
 non-replicated, non-transactional caching. I.e., it's the simplest case.

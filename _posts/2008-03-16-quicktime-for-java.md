@@ -25,22 +25,25 @@ yet.
 The particular test that interested me was was taking a camera phone
 photo, resizing it and rotating it. Here's an example original:
 
-<img src="http://awesomeness.openphoto.me/custom/201207/3fb008-11219752-0-media_httpfarm2static_dkjdl_870x550.jpg"/>
+<a href="https://www.flickr.com/photos/d6y/16174715951" title="Jack by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7462/16174715951_8c4004c911_o.jpg" width="375" height="500" alt="Jack"></a>
 
 Here's the rotation using tried-and-trusted [AffineTransform][] plus
 [ImageIO][]:
 
-<img src="http://awesomeness.openphoto.me/custom/201207/97cd0c-11219752-1-media_httpfarm4static_ctdBz_870x550.jpg" />
+<a href="https://www.flickr.com/photos/d6y/16109791797" title="affine by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7477/16109791797_6db6396f67_o.jpg" width="733" height="550" alt="affine"></a>
 
 And here's the same transformation run through QuickTime for Java using
 the `GraphicsImporter` and `Matrix` objects:
 
-<img src="http://awesomeness.openphoto.me/custom/201207/152aff-11219752-2-media_httpfarm4static_wFnBH_870x550.jpg" />
+<a href="https://www.flickr.com/photos/d6y/16294797722" title="matrix by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7580/16294797722_594b7ebc20_o.jpg" width="733" height="550" alt="matrix"></a>
 
 Now, it's subtle but the QT4J image looks to have sharper colours, and
 seems to be a better representation of the original input. It's also 20k
 compared to the 76k using the Java 2D libraries, and the code runs 1.7
 times faster. The downside: you need Apple hardware.
+
+_Update: sadly these JPG images have been downloaded and re-saved since this post was written, for various blog platform ports. The quality will have dropped._
+
 
 A few conclusions: it seems the Java 2D code doesn't just fall through
 to QuickTime on the Apple platform in any simple sense (which, I suppose

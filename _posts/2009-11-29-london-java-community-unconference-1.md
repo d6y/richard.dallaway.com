@@ -9,7 +9,7 @@ alias: /london-java-community-unconference-1
 tags:
 ---
 
-<img src="http://awesomeness.openphoto.me/custom/201207/1755cd-11219720-0-media_httpfarm3static_ChEED_870x550.jpg" width="500"/>
+<a href="https://www.flickr.com/photos/d6y/15990532579" title="4ff9db9fbb57b-11219720-0-media_httpfarm3static_ChEED by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7560/15990532579_502e1457c8_o.jpg" width="500" height="375" alt="4ff9db9fbb57b-11219720-0-media_httpfarm3static_ChEED"></a>
 
 Congratulations to the organizers of the [London Java Community][]: the
 first unconference was a success.
@@ -56,8 +56,8 @@ User Group was reinvigorated. The [lsug.org][] has been recovered and
 on a Wednesday, starting in Jan 2010. Keep an eye on the LJC mailing
 list for news.
 
-You'll find [my photos of the event on OpenPhoto][] and the hash tag on
-Twitter is [\#ljcuc1][].
+You'll find [my photos of the event][] and the hash tag on
+Twitter is [#ljcuc1][].
 
 
   [London Java Community]: http://www.meetup.com/Londonjavacommunity/
@@ -68,6 +68,6 @@ Twitter is [\#ljcuc1][].
   [Scala Users mailing lis]: http://www.scala-lang.org/node/199#scala-user%20
   [lsug.org]: http://lsug.org
   [Skillsmatter]: http://skillsmatter.com/go/java-jee
-  [my photos of the event on OpenPhoto]: http://d6y.trovebox.com/photos/album-m/list
-  [\#ljcuc1]: http://twitter.com/#search?q=ljcuc1
+  [my photos of the event]: https://www.flickr.com/search/?text=ljcuc1&sort=relevance&user_id=83551313%40N00
+  [#ljcuc1]: http://twitter.com/#search?q=ljcuc1
 

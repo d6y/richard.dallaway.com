@@ -65,7 +65,7 @@ it saved me a couple of loops.
 The regular expression is a bit hairy. You can figure out what's going
 on if you view the source of the page:
 
-<a href="http://d6y.trovebox.com/p/11"><img src="http://awesomeness.openphoto.me/custom/201207/68d025-11219733-0-media_httpfarm4static_pGgaD_870x550.jpg" width="480"/></a>
+<a href="https://www.flickr.com/photos/d6y/15989274350" title="4ff9dba312036-11219733-0-media_httpfarm4static_pGgaD by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7550/15989274350_878f87c8b7_o.jpg" width="500" height="452" alt="4ff9dba312036-11219733-0-media_httpfarm4static_pGgaD"></a>
 
 
 But that code is going to need a unit test. But how to "mock out" the

@@ -7,9 +7,11 @@ author: Richard
 date: 2011/01/22
 alias: /london-scala-user-group-how-the-guardian-most
 tags:
+- scala
+- events
 ---
 
-<img src="http://awesomeness.openphoto.me/custom/201207/2d3464-40595281-0-5349869488_7bdf810f24_b_870x550.jpg" width="500" />
+<a href="https://www.flickr.com/photos/d6y/16111623650" title="LSUG Guardian Event 2011 by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7515/16111623650_46865c349b_z.jpg" width="640" height="210" alt="LSUG Guardian Event 2011"></a>
 
 [Graham Tackley][] spoke at a packed [LSUG][] about how
 [guardian.co.uk][] implemented their first Scala project, [the content

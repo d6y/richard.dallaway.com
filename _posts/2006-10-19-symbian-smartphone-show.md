@@ -9,7 +9,7 @@ alias: /symbian-smartphone-show
 tags:
 ---
 
-<a href="http://d6y.trovebox.com/p/9e"><img src="http://awesomeness.openphoto.me/custom/201207/543d07-2007.11.20.11.34.29-2049224269_870x550.jpg" height="300" /></a>
+<a href="https://www.flickr.com/photos/d6y/2049224269" title="Keynote at Symbian Smartphone Show by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2378/2049224269_4f20919e5c_o.jpg" width="241" height="317" alt="Keynote at Symbian Smartphone Show"></a>
 
 This year I wanted to catch up with...
 

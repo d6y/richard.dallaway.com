@@ -44,9 +44,9 @@ That's a horrible example.  Let's try something better...
 
 The BBC have done a lot of work, as explained on their [Privacy and Cookies Internet blogpost](http://www.bbc.co.uk/blogs/bbcinternet/2012/05/privacy_cookies_ico.html), one part of which is to put a big banner on their site when you visit it:
 
-<a href="http:/d6y.trovebox.com/p/s"><img width="600" alt="Screen grab of BBC web site showing cookie info banner" src="http://d6y.trovebox.com/photo/s/create/f240c/870x550.jpg"></img></a>
+<a href="https://www.flickr.com/photos/d6y/16174717481" title="4fd32a3219169-bbccookies1 by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8675/16174717481_d6b0d26ae7_z.jpg" width="640" height="433" alt="4fd32a3219169-bbccookies1"></a>
 
-They show this banner and set a couple of ckns_policy cookies.  Once you click to another page on the site, the banner is gone.  The Guardian [does something that produces a similar effect](http://d6y.trovebox.com/p/t), only involving a scary number of cookies.
+They show this banner and set a couple of ckns_policy cookies.  Once you click to another page on the site, the banner is gone.  The Guardian [does something that produces a similar effect](https://www.flickr.com/photos/d6y/16176590365/in/set-72157622637795143/), only involving a scary number of cookies.
 
 Here's one way to achieve that approach with the module:
 

@@ -7,9 +7,11 @@ author: Richard
 date: 2009/02/05
 alias: /scala-and-wicket-london-meet-up
 tags:
+- events
+- scala
 ---
 
-<img src="http://awesomeness.openphoto.me/custom/201207/880058-11219734-0-media_httpfarm4static_fAyyb_870x550.jpg" width="480"></img>
+<a href="https://www.flickr.com/photos/d6y/16175837632" title="Scala and Wicket by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8644/16175837632_cea02fd687_o.jpg" width="500" height="375" alt="Scala and Wicket"></a>
 
 I know next to nothing about the [Wicket][] web framework, but I was
 intrigued by the [jWeekend][] [London Wicket User's Group][] meet up
@@ -52,7 +54,7 @@ painless.
 But back to the event and the talks:
 
 -   [Daan van Etten][] gave a lovely "Basic Introduction to Scala With Wicket". The [slides, handouts and code are available][]. One download and two commands to get the example app up and running was pleasing.
-   
+
 
 -   [Dean Phersson-Chapman][] spoke about his "Experiences Converting an Existing Wicket Application To Scala". It seems there are some serialization issues between Wicket and Scala 2.7.3 which are being fixed.
 

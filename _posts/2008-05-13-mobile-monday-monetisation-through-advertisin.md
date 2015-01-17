@@ -9,7 +9,7 @@ alias: /mobile-monday-monetisation-through-advertisin
 tags:
 ---
 
-<img src="http://awesomeness.openphoto.me/custom/201207/46bfcd-11219750-0-media_httpfarm4static_HtnCl_870x550.jpg" width="320"/>
+<a href="https://www.flickr.com/photos/d6y/2489464226" title="Mobile Monday by Richard Dallaway, on Flickr"><img src="https://farm4.staticflickr.com/3274/2489464226_6c8688fa34_z.jpg" width="640" height="438" alt="Mobile Monday"></a>
 
 Last night I was at [Mobile Monday London][] to catch four
 presentations. The topic: advertising on mobile. The summary: there's a
@@ -66,7 +66,7 @@ measurement in media". He showed the "measurement gap" graph. I'm sure
 the slides will be available soon, but for now I've done a shaky
 recreation:
 
-<a href="http://d6y.trovebox.com/p/1b"><img src="http://awesomeness.openphoto.me/custom/201207/6223ff-11219750-1-media_httpfarm4static_bsDxw_870x550.jpg" width="480"/></a>
+<a href="https://www.flickr.com/photos/d6y/2489490412" title="measurement gap by Richard Dallaway, on Flickr"><img src="https://farm4.staticflickr.com/3090/2489490412_6a26c07bd5_z.jpg?zz=1" width="640" height="480" alt="measurement gap"></a>
 
 (I'm guessing [Edward Tufte][] would not approve). So, we all agree it
 seems: we need better standards for measurement and more efficency in

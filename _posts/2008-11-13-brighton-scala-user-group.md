@@ -7,9 +7,11 @@ author: Richard
 date: 2008/11/13
 alias: /brighton-scala-user-group
 tags:
+- events
+- scala
 ---
 
-<img src="http://awesomeness.openphoto.me/custom/201207/53ec7a-11219739-0-media_httpfarm4static_JFwnG_870x550.jpg" width="480"/>
+<a href="https://www.flickr.com/photos/d6y/15990790837" title="4ff9dbb230bb1-11219739-0-media_httpfarm4static_JFwnG by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7468/15990790837_5f51925163_o.jpg" width="375" height="500" alt="4ff9dbb230bb1-11219739-0-media_httpfarm4static_JFwnG"></a>
 
 Last night was the Brighton Scala User Group pub [meet up][]. For the
 record the conversation covered:
@@ -39,6 +41,7 @@ record the conversation covered:
 
 The [next event][] will be 17 December 2008.
 
+_UPDATE: This became [Functional Brighton](http://www.meetup.com/Functional-Brighton/)_
 
   [meet up]: http://upcoming.yahoo.com/event/1263871/
   [Aspect Orientated Programming]: http://www.eclipse.org/equinox/incubator/aspects/

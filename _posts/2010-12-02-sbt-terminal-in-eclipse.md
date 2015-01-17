@@ -9,13 +9,11 @@ alias: /sbt-terminal-in-eclipse
 tags:
 ---
 
-<img src="http://awesomeness.openphoto.me/custom/201207/61dc29-35137865-0-0_Install_870x550.jpg" width="480" />
-
-[See all the screen shots on OpenPhoto](http://d6y.trovebox.com/photos/album-1/list)
+<a href="https://www.flickr.com/photos/d6y/16150789236" title="4ff9dbd6dbe3b-35137865-0-0_Install by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8601/16150789236_fac6330d36_o.png" width="576" height="576" alt="4ff9dbd6dbe3b-35137865-0-0_Install"></a>
 
 Mostly when I'm writing code I'm in the [Scala IDE for Eclipse][], with
-a separate terminal window containing SBT running \~test-quick or
-jetty-run. But flipping back and forth between terminal and Eclipse is
+a separate terminal window containing SBT running `~test-quick` or
+`jetty-run`. But flipping back and forth between terminal and Eclipse is
 non-optimal, so I went digging for Eclipse + SBT integrations.
 
 There are a few [mentioned on the SBT site][], but I realized all I

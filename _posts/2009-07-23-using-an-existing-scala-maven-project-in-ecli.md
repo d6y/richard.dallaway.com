@@ -9,7 +9,7 @@ alias: /using-an-existing-scala-maven-project-in-ecli
 tags:
 ---
 
-In case you're having problems using the[Scala IDE for Eclipse][] with
+In case you're having problems using the [Scala IDE for Eclipse][] with
 Maven projects, here's what I do:
 
 -   Generate the Eclipse project files from the shell:
@@ -25,7 +25,7 @@ Maven projects, here's what I do:
 
 The plugins I have look like this:
 
-<img src="http://awesomeness.openphoto.me/custom/201207/5358de-11219728-0-media_httpfarm4static_rflEE_870x550.jpg" width="500"/>
+<a href="https://www.flickr.com/photos/d6y/16150791926" title="4ff9dba17c0b4-11219728-0-media_httpfarm4static_rflEE by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8579/16150791926_b4dd7e0e33_o.jpg" width="500" height="330" alt="4ff9dba17c0b4-11219728-0-media_httpfarm4static_rflEE"></a>
 
 ...and it all works very well. The Maven plugin is the [m2 one][].
 

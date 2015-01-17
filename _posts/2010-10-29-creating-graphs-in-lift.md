@@ -9,7 +9,7 @@ alias: /creating-graphs-in-lift
 tags:
 ---
 
-<img src="http://d6y.trovebox.com/photo/1o/create/e7cd7/870x550.jpg" width="480" />
+<a href="https://www.flickr.com/photos/d6y/15554227074" title="4ff9dbd4add81-31900974-0-bar_chart_example by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7526/15554227074_feaf2a5c36_o.png" width="651" height="753" alt="4ff9dbd4add81-31900974-0-bar_chart_example"></a>
 
 The other day at the London Scala User Group I was asked about creating
 charts and graphs in Lift.  The two ways that sprung to mind were to use
