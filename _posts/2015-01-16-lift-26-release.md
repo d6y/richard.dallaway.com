@@ -64,7 +64,7 @@ The best place to see how to use this is [at the Actuarius wiki](https://github.
 
 ## MongoDB Improvements
 
-Lift 2.6 includes quite a few upgrades for MonoDB support:
+Lift 2.6 includes quite a few upgrades for MongoDB support:
 
 - the new `MongoClient` interface has been adopted, for the [new and better way](http://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html) of connecting to Mongo;
 - JodaTime is supported via `JodaTimeField`;
