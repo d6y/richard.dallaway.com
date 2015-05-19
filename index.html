@@ -11,7 +11,7 @@ layout: default
 </div>
 <div class="post-excerpt-home">
   {{ post.excerpt }}
-  <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
+  <p><a style="text-decoration: none" href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
 </div>
 {% endfor %}
 <hr>
