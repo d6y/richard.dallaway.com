@@ -7,8 +7,6 @@ author: Richard
 date: 2014/09/03
 ---
 
-_Originally posted at [Underscore](http://underscoreconsulting.com/blog/posts/2014/09/03/enumerations.html)_.
-
 Should you use Scala's built in `scala.Enumeration` class, or roll your own sealed class objects?  The answer depends on which you value more: having a single lightweight class, or better type safety.
 
 If you want to skip the detail, just know to use `scala.Enumeration` if you need to limit the number of classes; otherwise prefer case objects or classes.
@@ -89,3 +87,6 @@ is the [Viktor Klang "DIY Enum"](https://gist.github.com/viktorklang/1057513).  
 `scala.Enumeration` has a particular view of what it means to be an enumeration. Use it where it fits your view of an enumeration.
 
 A sealed set of case objects is a good way to represent an enumeration.  You can make this as simple or as sophisticated as you need for your project.
+
+(_Originally posted at [Underscore](http://underscoreconsulting.com/blog/posts/2014/09/03/enumerations.html)_).
+
