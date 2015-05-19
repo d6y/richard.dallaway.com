@@ -20,7 +20,7 @@ a Haskell project of his.  A good evening with plenty of Q&A.
 I had every intention of recording what I said about Scala, but failed.
  So here goes with a reconstruction of what I said or intended to say.
 
-<div style="width:510px" id="__ss_8122512"> <object id="__sse8122512" width="510" height="420"> <param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=what-is-fp-to-me-110527050223-phpapp02&rel=0&stripped_title=what-functional-programming-means-to-me&userName=RichardDallaway" /> <param name="allowFullScreen" value="true"/> <param name="allowScriptAccess" value="always"/> <param name="wmode" value="transparent"/> <embed name="__sse8122512" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=what-is-fp-to-me-110527050223-phpapp02&rel=0&stripped_title=what-functional-programming-means-to-me&userName=RichardDallaway" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="510" height="420"></embed> </object> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/RichardDallaway" target="_blank">Richard Dallaway</a> </div> </div>
+<script async class="speakerdeck-embed" data-id="4e81c4da22cb44006301263f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 "What functional programming means to me" has been a fun assignment. I
 have no background in functional programming—and the funky languages I
