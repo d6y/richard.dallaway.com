@@ -26,6 +26,8 @@ The slides from my presentation are below:
 
 <script async class="speakerdeck-embed" data-id="fcc82d3416b84588937cba16a0ccce1f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+Update: there's now [a recording online](https://www.parleys.com/tutorial/towards-browser-server-utopia-scala-js-example-using-crdts).
+
 The source for the example project is [over at Github].
 
 ## Scala.js
