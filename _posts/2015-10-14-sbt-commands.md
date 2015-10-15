@@ -5,7 +5,7 @@ author: Richard Dallaway
 ---
 
 Dear Richard: these are the SBT tricks you should have known about.
-They are the ones you wish I could remember them just when you need them, but you don't.
+They are the ones you wish you could remember just when you need them, but you don't.
 So here they are written down.
 
 <!-- break -->
