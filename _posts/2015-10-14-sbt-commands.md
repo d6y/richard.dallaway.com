@@ -50,6 +50,16 @@ triggeredMessage in ThisBuild := Watched.clearWhenTriggered
 You sometimes need `test:run` or `test:runMain` when that important application is in _src/test/scala_.
 
 
+# Stopping
+
+When you run an application and CTRL-C it, it's annoying if that exits sbt.
+Prevent that with:
+
+~~~
+cancelable in Global := true
+~~~
+
+
 #  The Place for Everything
 
 * _~/.sbt/0.13/plugins/_ folder for the plugins you use everywhere, such as ensime-sbt.
@@ -72,6 +82,7 @@ For example:
     resolvers += "Type" at "http://repo.typesafe.com/typesafe/maven-releases"
     net.virtualvoid.sbt.graph.Plugin.graphSettings
     triggeredMessage in ThisBuild := Watched.clearWhenTriggered
+    cancelable in Global := true
 
     $ cat ~/.sbtrc
     alias cd = project
