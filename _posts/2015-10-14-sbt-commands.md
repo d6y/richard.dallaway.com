@@ -13,7 +13,7 @@ So here they are written down.
 # Changing JVM Options
 
 Mid-session you sometimes want to change JVM flags.
-The `jvmOption` setting is good for that. For example..
+The `javaOptions` setting is good for that. For example..
 
 ## Trace Typesafe Config Files
 
@@ -59,6 +59,15 @@ Prevent that with:
 cancelable in Global := true
 ~~~
 
+# Latest Dependencies
+
+Ivy dependencies allow you to select “latest.integration” as the revision number:
+
+~~~
+addSbtPlugin("org.ensime" % "ensime-sbt" % "latest.integration")
+~~~
+
+This will give you the latest and greatest version. Use it for global plugins (see below) for you development environment. Avoid it for core build dependencies because you want a reproducible build at all times.
 
 #  The Place for Everything
 
@@ -73,13 +82,12 @@ cancelable in Global := true
 For example:
 
     $ cat ~/.sbt/0.13/plugins/build.sbt
-    addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.7.5")
+    addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "latest.integration")
     addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "4.0.0")
-    addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "1.6.0")
-    addSbtPlugin("org.ensime" % "ensime-sbt" % "0.1.7")
+    addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "latest.integration")
+    addSbtPlugin("org.ensime" % "ensime-sbt" % "latest.integration")
 
     $ cat ~/.sbt/0.13/global.sbt
-    resolvers += "Type" at "http://repo.typesafe.com/typesafe/maven-releases"
     net.virtualvoid.sbt.graph.Plugin.graphSettings
     triggeredMessage in ThisBuild := Watched.clearWhenTriggered
     cancelable in Global := true
@@ -87,9 +95,34 @@ For example:
     $ cat ~/.sbtrc
     alias cd = project
 
+Although you typically shovel everything into _build.sbt_, sbt will read all the _.sbt_ files in those folders.
+
+# Defining Commands
+
+E.g.,
+
+~~~
+$ cat ~/.sbt/0.13/clear.sbt
+// Handy `clear` command:
+def clearConsoleCommand = Command.command("clear") { state =>
+  val cr = new jline.console.ConsoleReader()
+  cr.clearScreen
+  state
+}
+
+commands += clearConsoleCommand
+~~~
+
 # Problem Solving
 
 It's always something to do with scopes.
+
+You can find the value of a setting in a particular scope using inspect:
+
+~~~
+inspect project1/libraryDependencies
+inspect project2/libraryDependencies
+~~~
 
 So sometimes you want to make a setting the same for all projects in a build:
 
@@ -98,5 +131,11 @@ scalaVersion in ThisBuild := "2.11.7"
 ~~~
 
 You should regularly re-read the [scoping rules](http://www.scala-sbt.org/release/tutorial/Scopes.html).
+
+# Other Ideas
+
+A version of this post appears over [at Underscore.io](http://underscore.io/blog/posts/2015/11/09/sbt-commands.html).
+It includes comments and other tips submitted by the community.
+
 
 
