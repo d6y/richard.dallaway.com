@@ -25,7 +25,7 @@ You can find me on <a href="http://www.twitter.com/d6y">Twitter</a>, <a href="ht
 
 ## Here
 
-- <a href="/archive">Blog index</a>
+- <a href="/archive/index.html">Blog index</a>
 - <a href="/rss.xml">RSS feed</a>
 
 ##  Elsewhere
@@ -36,5 +36,5 @@ You can find me on <a href="http://www.twitter.com/d6y">Twitter</a>, <a href="ht
 
 ## Publications
 
-<iframe frameborder="0" scrolling="no" width="200px" height="500px" src="http://cdn.oreillystatic.com/widgets/author/253.html">
+<iframe frameborder="0" scrolling="no" width="200px" height="500px" src="//cdn.oreillystatic.com/widgets/author/253.html">
 </iframe>
