@@ -9,8 +9,6 @@ url: "" # the base hostname & protocol for your site
 twitter_username: d6y
 github_username:  d6y
 
-gems:
-  - jemoji
 defaults:
   -
     scope:
@@ -19,4 +17,6 @@ defaults:
       comments: true
 # Build settings
 markdown: kramdown
+highlighter: none
+
 
