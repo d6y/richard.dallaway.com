@@ -11,6 +11,7 @@ It started me thinking about how I've been working across timezones for the last
 [podcast]: http://www.collaborationsuperpowers.com/podcasts/
 [csp116]: http://www.collaborationsuperpowers.com/116-10-tips-for-working-with-multiple-time-zones/
 [tl]: https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
+[Shush]: http://mizage.com/shush/
 
 <!-- break -->
 
@@ -82,6 +83,22 @@ by switching medium ("let's talk on Monday at 9 your time").
 
 Just a +1 or the occasional clarification can help smooth
 these daily communication habits.
+
+## Audio
+
+Talking, in real time, when you have some cross-over, is wonderful.
+It clears up so much, so quickly.
+
+Laptop microphones and speakers are pretty good.
+I still use a headset.
+The main reason...because typing and clicking a trackpad don't travel so much when you're using a headset.
+
+I also like to mute a lot. Applications tend not to make this as easy as they could (especially if they are not running at the front of your screen).
+To make muting easy, I use [Shhs] which gives me a key I can press to toggle audio on and off.
+I love it, but it doesn't let anyone else know you're muted, which can be annoying.
+
+Pretty much every other call someone tells me I'm muted (when I thought I wasn't).
+So more practice needed for me there.
 
 ## TODOs
 
