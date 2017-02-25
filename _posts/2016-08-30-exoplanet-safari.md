@@ -26,7 +26,7 @@ _Follow along with the slides at [https://speakerdeck.com/d6y/exoplanet-safari](
 
 The furthest is 27,000 light years away —a distance I can’t begin to understand.  And it's mind boggling to think we can detect a planet at that kind of distance.
 
-The closest was reported last week the European Southern Observatory. An exoplanet right at the next star along, 4 light years away. Give or take.  Well get to that one later.
+The closest was reported last week at the European Southern Observatory. An exoplanet right at the next star along, four light years away. Give or take.  Well get to that one later.
 
 ## Start with the first one
 
@@ -53,7 +53,7 @@ We know some things about the star, 51 Peg, is about 50 light years away. It’s
 
 The planet is big. It’s drawn here to look a bit like Jupiter, I think.  Its radius is estimated at over 1.5x Jupiter.
 
-And it orbits the star every 4 days, very close in. The distance of 0.05 AU… much closer to the start than Mercury is to the Sun. Here's a diagram of the system, and this is where Mercury’s orbit would be. Really close, so it’s hot too.  Getting on for 1000 degrees C. 
+And it orbits the star every four days, very close in. The distance of 0.05 AU… much closer to the start than Mercury is to the Sun. Here's a diagram of the system, and this is where Mercury’s orbit would be. Really close, so it’s hot too.  Getting on for 1000 degrees C. 
 
 The mass of the planet — how much stuff it’s made off — is probably only half that of Jupiter.  But I’ve said it’s over 1.5 times the radius of Jupiter.  The interpretation is that the atmosphere is heated and expanded out much more than we see for the much cooler Jupiter.
 
@@ -69,7 +69,7 @@ So this was a pretty exciting find, and shook things up.
 
 So how do we know all of that?
 
-Well there are a whole bunch of ways exoplanets are being detected. This diagram is trying to explain that. It’s from the Exoplanet Handbook.What it’s showing is a branch for each different kind of detection technique.  And the length of the line indicates how accurate it is.  For example, this line here is showing the first method we’ll be looking at, called Radial Velocity (RV). And you can see that it goes all the way down here from being able to detect planets 10x the size of Jupiter, to Jupiter sized, to 10x Earth size and then this dotted line showing it’s getting to Earth-sized planets.  And generally, there’s this progression of all these techniques getting more and more sensitive and technology progresses.
+Well there are a whole bunch of ways exoplanets are being detected. This diagram is trying to explain that. It’s from the Exoplanet Handbook. What it’s showing is a branch for each different kind of detection technique.  And the length of the line indicates how accurate it is.  For example, this line here is showing the first method we’ll be looking at, called Radial Velocity (RV). And you can see that it goes all the way down here from being able to detect planets 10x the size of Jupiter, to Jupiter sized, to 10x Earth size and then this dotted line showing it’s getting to Earth-sized planets.  And generally, there’s this progression of all these techniques getting more and more sensitive and technology progresses.
 
 So we have all of these tools. Most of them I know nothing about. We’ll be focussing today on RV, and this line over here, Transits measured by space craft.  Disappointingly, this line, showing imaging, looks like it’ll take a while to get some really nice photos of exoplanets. It's tricky because stars are very bright (of the order a billion times brighter than a planet), but even this is being worked on.
 
@@ -97,13 +97,13 @@ And the interpretation you make is: more blue, is faster towards you; more red, 
 
 Let’s focus in on the graph.There are three key things we get from this graph. 
 
-The first is that these changes repeat, which tells us the period of the orbit.  You and I would call it a year, even thought it’s 4 days long in this case. 
+The first is that these changes repeat, which tells us the period of the orbit.  You and I would call it a year, even thought it’s four days long in this case. 
 
 That also tells us how far the planet is from the star. That’s due to Kepler’s Law — which tell us the duration of the orbit is proportional to the distance from the star. The further away from the star, the longer it takes to go around.  If we know the properties of the star, we can work out how much energy is hitting the exoplanet, which will give us information about the temperature.
 
-We also know the mass of the planet. The height of this curve gives us that.  More mass has a larger impact, and this peak is higher.  Or looking at it another way, a tiny would would have no detectable effect on the wobble of the planet.
+We also know the mass of the planet. The height of this curve gives us that.  More mass has a larger impact, and this peak is higher.  Or looking at it another way, a tiny world would have no detectable effect on the wobble of the planet.
 
-We do not get the radius of the planet from this method.  Now, 51 Peg b has been around for a while, and we know from follow-up work using different methods, not RV (Radius from follow-up last year looking for reflected light from the star). And generally, I think that’s what you want: throw as many techniques as you can at a planet, and get confirmation from different techniques.
+We do not get the radius of the planet from this method.  Now, 51 Peg b has been around for a while, and we know from follow-up work using different methods, not RV. And generally, I think that’s what you want: throw as many techniques as you can at a planet, and get confirmation from different techniques.
 
 So that’s what we know about 51 Peg b.  It’s very different from our solar system, shook up how we thought planets form, and it did seem to kick start exoplanet discovery. 
 
@@ -111,7 +111,7 @@ It didn’t happen overnight — back then computers were slower, it took a day 
 
 ## Earth 2.0
 
-The next planet is the safari is one: strikingly different from 51 Peg b.
+The next planet is the safari is this one: strikingly different from 51 Peg b.
 
 So you know from the name that this star is Kepler 186, and we’re looking here at “f” — the fifth exoplanet discovered around it. You can see the other four closer in on this artist impression.
 
@@ -123,7 +123,7 @@ Which makes this another first: this is the first Earth-like exoplanet in the ha
 
 We can get a better idea of that from this diagram.  This is screen shot from the Exoplanet app.  This green area is the calculation of where the temperature could allow liquid water to exist.
 
-Close into the star, inside the green area, you’re close to the star, and it’s too hot.  Outside the green area, it’s too cold.  This solid line here is the orbit of Kepler 186-f, right in the middle of the HZ.
+Inside the green area, you’re close to the star, and it’s too hot.  Outside the green area, it’s too cold.  This solid line here is the orbit of Kepler 186-f, right in the middle of the HZ.
 
 You can see the other planets of the system are in too close and will be probably too hot. This outer line is Mercury again, for comparison.
 
@@ -157,11 +157,11 @@ Exoplanets and speculation go hand in hand.
 
 This planet was detected using the Kepler spacecraft.  This is a telescope, trailing behind the Earths in a similar orbit, that went up in 2009. 
 
-To give you some scale, I think a person is about that big.
+To give you some scale, a person is about that big.
 
 And what it did is stare at one area of the sky.  The telescope has these 21 detectors, and it covered area with lots of stars in it, about 150,000 useful stars.  Although they are generally quite far away. Up to 3,000 light years.
 
-The job of this telescope was to find earth like planets in the HZ, and 186-f was the first confirmed one of these. And it does this staring at this patch, and looking for a dip in the light as a planet passes in front of the star.  That’s called a transit.  Transits might only las a few hours, so it has to stare for as long as it can… for years.
+The job of this telescope was to find earth like planets in the HZ, and 186-f was the first confirmed one of these. And it does this staring at this patch, and looking for a dip in the light as a planet passes in front of the star.  That’s called a transit.  Transits might only last a few hours, so it has to stare for as long as it can… for years.
 
 And it’s been hugely successful: over 2000 confirmed planets, and 3000 unconfirmed candidates that need to be followed up on… and the reckoning is that 90% will turn out to be confirmed planets. So there’s lots more finds in this data.
 
@@ -183,9 +183,9 @@ There’s a web site called Planet Hunters. And this presents you with Kepler da
 
 I’ve tried this, and I find it incredibly hard.  The brightness of stars vary in all sorts of ways. I don’t think I’ve been presented with a single example that looks anything like this. They are often wavy, lines because some stars are variable, or suddenly the brightness shoots up. Have a go and see what you think.
 
- 
 
- ## Three facts: Transits
+
+## Three facts: Transits
 
 As with RV, this graph, this light curve, gives us three pieces of information. This is how we know what we know about this exoplanet.
 
@@ -195,7 +195,7 @@ We know the time between the dips is the orbit period — the length of a year. 
 
 With transits, this depth here tells us the diameter of the planet. 
 
- So we know how big it is, but we don’t know the mass of the planet.
+So we know how big it is, but we don’t know the mass of the planet.
 
 RV gives us the mass; Transit gives us the diameter.  So ideally you want both methods.
 
