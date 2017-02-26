@@ -37,7 +37,7 @@ The rest all make sense to me, although I probably have slightly different prior
 ## Video recording
 
 The one idea I'm least tempted by is recording meetings (6).
-I suppose the reasons are that it's changes the tone of a meeting (but
+I suppose the reasons are that it changes the tone of a meeting (but
 perhaps in a good way), gives those not there the burden of having to 
 listen or watch it.  A good short summary would seem like a more beneficial.
 But I can see they would be useful sometimes.
@@ -94,7 +94,7 @@ I still use a headset.
 The main reason...because typing and clicking a trackpad don't travel so much when you're using a headset.
 
 I also like to mute a lot. Applications tend not to make this as easy as they could (especially if they are not running at the front of your screen).
-To make muting easy, I use [Shhs] which gives me a key I can press to toggle audio on and off.
+To make muting easy, I use [Shush] which gives me a key I can press to toggle audio on and off.
 I love it, but it doesn't let anyone else know you're muted, which can be annoying.
 
 Pretty much every other call someone tells me I'm muted (when I thought I wasn't).
