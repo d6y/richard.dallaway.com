@@ -401,9 +401,9 @@ How do we do that?
 ## Formatter for lists ##
 
 We start just the same way we did for formatting integers or strings.
-We create a JsonForamt for a list of something.
+We create a JsonFormat for a list of something.
 And so we have to define a format method.
-It takes a list of things, and gives us back a String … the JSON representation of that list.
+It takes a list of things, and gives us back a String… the JSON representation of that list.
 
 Let’s fill in the body.
 We know we need some square brackets around our values, and the values need to be separated by commas.
