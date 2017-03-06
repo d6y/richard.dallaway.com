@@ -296,7 +296,7 @@ We've written maybe twenty lines of code, so it's definitely time for some coffe
 And on reflection, we can say that ADTs and structural recursion is one technique a functional programmer uses.
 And they'll use it every day.
 
-We like ADTs for their safety. How the compile helps us out.
+We like ADTs for their safety. And how the compiler helps us out.
 
 We like them for their versatility.
 They occur everywhere. If you've heard of Option or Optional types,
