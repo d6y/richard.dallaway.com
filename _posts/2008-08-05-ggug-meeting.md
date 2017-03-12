@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'GGUG Meeting'
 author: Richard
 date: 2008/08/05

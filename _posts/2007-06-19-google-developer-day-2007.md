@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Google Developer Day 2007'
 author: Richard
 date: 2007/06/19

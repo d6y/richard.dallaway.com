@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Vendor JAM'
 author: Richard
 date: 2006/08/01

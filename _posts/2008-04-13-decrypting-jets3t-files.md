@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Decrypting JetS3t Files'
 author: Richard
 date: 2008/04/13

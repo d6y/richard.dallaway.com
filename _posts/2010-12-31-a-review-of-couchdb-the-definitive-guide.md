@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'A Review of &#34;CouchDB: The Definitive Guide&#34;'
 author: Richard
 date: 2010/12/31

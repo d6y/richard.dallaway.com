@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Four Scala Books'
 author: Richard
 date: 2009/01/22

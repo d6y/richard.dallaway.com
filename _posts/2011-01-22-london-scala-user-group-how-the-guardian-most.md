@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'London Scala User Group: How the Guardian (mostly) moved from Java to Scala'
 author: Richard
 date: 2011/01/22

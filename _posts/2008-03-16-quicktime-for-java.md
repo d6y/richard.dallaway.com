@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'QuickTime for Java'
 author: Richard
 date: 2008/03/16

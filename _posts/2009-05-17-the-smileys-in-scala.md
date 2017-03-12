@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'The Smileys in Scala'
 author: Richard
 date: 2009/05/17

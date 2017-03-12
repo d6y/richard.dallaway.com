@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Great functional programming lectures'
 author: Richard
 date: 2009/11/09

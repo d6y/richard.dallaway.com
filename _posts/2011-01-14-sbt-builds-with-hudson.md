@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'SBT builds with Hudson'
 author: Richard
 date: 2011/01/14

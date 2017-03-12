@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Scala & Wicket London Meet Up'
 author: Richard
 date: 2009/02/05

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Tracking down threading issues'
 author: Richard
 date: 2008/09/30

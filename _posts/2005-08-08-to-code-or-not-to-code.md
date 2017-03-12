@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'To code or not to code'
 author: Richard
 date: 2005/08/08

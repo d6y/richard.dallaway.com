@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Screencast on using Lifty'
 author: Richard
 date: 2010/10/30

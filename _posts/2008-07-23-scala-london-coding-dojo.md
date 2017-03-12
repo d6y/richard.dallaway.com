@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Scala London Coding Dojo'
 author: Richard
 date: 2008/07/23

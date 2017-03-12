@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Mac OS 10.4, Apache, Subversion'
 author: Richard
 date: 2007/02/08

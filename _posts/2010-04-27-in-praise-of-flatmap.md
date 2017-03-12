@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'In Praise of flatMap'
 author: Richard
 date: 2010/04/27

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Comparing closures in Java, Groovy and Scala'
 author: Richard
 date: 2008/06/14

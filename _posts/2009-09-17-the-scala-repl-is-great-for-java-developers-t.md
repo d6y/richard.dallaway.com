@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'The Scala REPL is great for Java developers too'
 author: Richard
 date: 2009/09/17

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Lift Cookbook: an introduction'
 author: Richard
 date: 2012/03/09

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Symbian Smartphone Show'
 author: Richard
 date: 2006/10/19

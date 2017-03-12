@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'London Java Community Unconference 1'
 author: Richard
 date: 2009/11/29

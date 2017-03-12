@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Using an existing Scala + Maven project in Eclipse'
 author: Richard
 date: 2009/07/23

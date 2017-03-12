@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Mobile Monday: Monetisation through Advertising'
 author: Richard
 date: 2008/05/13

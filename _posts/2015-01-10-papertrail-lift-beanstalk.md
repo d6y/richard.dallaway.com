@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: Papertrail Logging with Lift and AWS Beanstalk
 author: Richard
 date: 2015/01/10

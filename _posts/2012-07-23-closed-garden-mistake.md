@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Closed Gardens: Don&#39;t repeat my mistakes'
 author: Richard
 date: 2012/07/23

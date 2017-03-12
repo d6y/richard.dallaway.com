@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'A review of &#34;25 Recipes for Getting Started with R&#34;'
 author: Richard
 date: 2011/03/16

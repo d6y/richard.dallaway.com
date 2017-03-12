@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Creating a executable script from a Maven project'
 author: Richard
 date: 2010/06/21

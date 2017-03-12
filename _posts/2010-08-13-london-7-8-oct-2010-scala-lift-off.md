@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Scala Lift Off London, 7-8 Oct 2010'
 author: Richard
 date: 2010/08/13

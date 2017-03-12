@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'A comment on static typing'
 author: Richard
 date: 2007/08/17

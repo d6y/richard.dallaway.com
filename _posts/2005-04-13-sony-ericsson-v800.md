@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Sony Ericsson V800'
 author: Richard
 date: 2005/04/13

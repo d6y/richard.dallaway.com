@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Augmented Reality at £5 App Xmas Special'
 author: Richard
 date: 2008/12/11

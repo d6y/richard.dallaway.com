@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Using Sendgrid with Lift'
 author: Richard
 date: 2011/03/07

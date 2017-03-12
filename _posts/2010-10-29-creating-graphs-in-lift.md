@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Creating graphs in Lift'
 author: Richard
 date: 2010/10/29

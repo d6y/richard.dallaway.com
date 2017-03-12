@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Shell aliases for Lift development'
 author: Richard
 date: 2010/03/25

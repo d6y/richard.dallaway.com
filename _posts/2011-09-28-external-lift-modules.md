@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'External Lift Modules'
 author: Richard
 date: 2011/09/28

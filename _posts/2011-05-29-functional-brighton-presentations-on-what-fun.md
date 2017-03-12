@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Functional Brighton: &#34;What functional programming means to me&#34;'
 author: Richard
 date: 2011/05/29

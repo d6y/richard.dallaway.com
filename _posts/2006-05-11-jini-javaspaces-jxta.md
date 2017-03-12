@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Jini, JavaSpaces, JXTA'
 author: Richard
 date: 2006/05/11

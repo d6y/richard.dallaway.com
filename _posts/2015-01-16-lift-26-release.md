@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: Highlights of the Lift Web Framework 2.6 Release
 author: Richard
 date: 2015/01/16

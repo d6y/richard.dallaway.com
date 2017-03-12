@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Running SBT (or any shell command) from Eclipse'
 author: Richard
 date: 2010/12/02

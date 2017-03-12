@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Brighton Scala User Group'
 author: Richard
 date: 2008/11/13

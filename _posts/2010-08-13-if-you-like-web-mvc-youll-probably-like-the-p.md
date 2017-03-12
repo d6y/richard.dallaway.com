@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'If you like web MVC you&#39;ll probably like the Play web framework'
 author: Richard
 date: 2010/08/13

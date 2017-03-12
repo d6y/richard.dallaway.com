@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Databinder Dispatch Discussions at #scalalol'
 author: Richard
 date: 2010/10/19

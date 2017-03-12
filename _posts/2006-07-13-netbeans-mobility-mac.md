@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'NetBeans, Mobility, Mac'
 author: Richard
 date: 2006/07/13

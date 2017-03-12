@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'The &#39;Hull City Problem&#39; in Scala'
 author: Richard
 date: 2009/01/14

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Sleepycat: Berkeley DB Java Edition'
 author: Richard
 date: 2005/05/12

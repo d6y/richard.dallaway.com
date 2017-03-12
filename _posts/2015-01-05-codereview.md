@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: Code Review at Scala eXchange
 author: Richard
 date: 2015/01/05

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Scala Enumerations'
 author: Richard
 date: 2014/09/03

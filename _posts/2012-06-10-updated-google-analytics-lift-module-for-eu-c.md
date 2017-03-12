@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Updated Google Analytics Lift module for EU cookie law'
 author: Richard
 date: 2012/06/10

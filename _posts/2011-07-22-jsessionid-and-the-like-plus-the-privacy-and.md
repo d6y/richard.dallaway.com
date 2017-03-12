@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'JSESSIONID and the like, plus the Privacy and Electronic Communications'
 author: Richard
 date: 2011/07/22

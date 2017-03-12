@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Review of &#34;Functional Programming for Java Developers&#34;'
 author: Richard
 date: 2011/08/04

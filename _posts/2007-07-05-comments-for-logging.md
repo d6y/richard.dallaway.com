@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Comments for Logging'
 author: Richard
 date: 2007/07/05

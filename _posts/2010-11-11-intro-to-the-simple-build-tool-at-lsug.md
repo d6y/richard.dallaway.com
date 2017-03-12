@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Intro to the Simple Build Tool at LSUG'
 author: Richard
 date: 2010/11/11

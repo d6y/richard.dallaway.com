@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'JasperReports, JFreeChart, JExcelAPI'
 author: Richard
 date: 2006/02/22

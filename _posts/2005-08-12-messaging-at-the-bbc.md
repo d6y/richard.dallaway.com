@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Messaging at the BBC'
 author: Richard
 date: 2005/08/12

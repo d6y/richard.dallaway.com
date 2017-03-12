@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-permalink: /:title
+permalink: /:title.html
 title: 'Getting Started with Scala'
 author: Richard
 date: 2008/02/03
