@@ -22,7 +22,7 @@ Key elements:
 
 - Commoditization as a strategy (e.g., jboss, mysql, android, linux) has not historically been a big business model. It is a rare event. You need something new. Lead a new trend, and a big trend leads to a big business.
 
-- Cloud is affecting open source: Pivotal don't sell you a tarball and support contract, they do continuous delivery of their software and cloud API. This gives you leverage beyond support. _I don't really understand this part._
+- Cloud is affecting open source: Pivotal don't sell you a tarball and support contract, they do continuous delivery of their software and cloud API. This gives you leverage beyond support. _I don't really understand this part, but Noel commnented: "E.g. if you expose an API they can integrate with your system, and once integrated it’s harder to leave.."_
 
 - Bringing polish to open source (client facing vs developer facing). Pivotal made the UI closed source. Gives differentiation, which is important for "packaging for procurement".  Procurement is trying to compare things for pricing, and they are very good at that for labour cost. Having a small piece of differentiation is important for navigating the politics of procurement. When you get to procurement someone wants you to win (your champion), but you're in a political domain.
 
