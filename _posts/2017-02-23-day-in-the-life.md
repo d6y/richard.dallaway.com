@@ -160,7 +160,7 @@ which means "hey compiler, you're about to see all the possible kinds of Subscri
 And now we can list them out:
 
 We're saying that Never is a case of Subscription.
-We’re saying it’s an object, which just means there’s only one instance of never in our system.
+We’re saying it’s an object, which just means there’s only one instance of Never in our system.
 And we’ve done the same for Active, and Lapsed.
 And those are only the kinds of subscription.
 
@@ -231,7 +231,7 @@ We need to go and fix up each place where we have some logic about a subscriptio
 
 And that's really nice, because we can mess with our data type, 
 and have the compiler point out each and ever situation we need to re-examine.
-It’s also really nice because we can do arbitrary things with our subscription. We don’t have to try and show horn all possible behaviours into once place.
+It’s also really nice because we can do arbitrary things with our subscription. We don’t have to try and shoehorn all possible behaviours into once place.
 
 BTW, this might look like a feature of Scala.
 That we can match and represented sealed cases.
