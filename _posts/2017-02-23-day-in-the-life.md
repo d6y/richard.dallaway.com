@@ -19,6 +19,8 @@ Notes what I said (or probably said) are in this post, along with slides.
 
 _You might want to [open the slides](https://speakerdeck.com/d6y/day-in-the-life-of-a-functional-programmer) in a separate window to click along._
 
+Update: There's a video recording of a variation of this talk made for Java Brighton, which you can find [on YouTube](https://www.youtube.com/watch?v=S5BvWPIj-TY).
+
 ## Modern development ##
 
 Hello.
