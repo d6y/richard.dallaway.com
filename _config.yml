@@ -1,8 +1,7 @@
-# Site settings
 title: Richard Dallaway
 email: richard@dallaway.com
-description: > # this means to ignore newlines until "baseurl:"
-  It's mostly technical stuff here. Mostly. Often regarding Scala, Lift and
+description: > 
+  It's mostly technical stuff here. Mostly.
   Underscore Consulting.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
