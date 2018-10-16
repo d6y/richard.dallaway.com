@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: "Exoplanet Safari"
 author: "Richard Dallaway"
@@ -33,7 +33,7 @@ The closest was reported last week at the European Southern Observatory. An exop
 
 We’re going to start with what’s considered to be the first exoplanet. That’s 51 Peg b.
 
-Here's the artist impression. There are no images are exoplanets anything like this. And we’re going to be seeing a few artist impressions tonight… so don’t confuse this with real images.
+Here's the artist impression. There are no images of exoplanets anything like this. And we’re going to be seeing a few artist impressions tonight… so don’t confuse this with real images.
 
 And a confession: it’s not really the first exoplanet. Earlier exoplanets were found, but are huge, more like “failed star”, or orbit around stars very different to our own, such as pulsars.
 
@@ -53,7 +53,7 @@ We know some things about the star, 51 Peg, is about 50 light years away. It’s
 
 The planet is big. It’s drawn here to look a bit like Jupiter, I think.  Its radius is estimated at over 1.5x Jupiter.
 
-And it orbits the star every four days, very close in. The distance of 0.05 AU… much closer to the start than Mercury is to the Sun. Here's a diagram of the system, and this is where Mercury’s orbit would be. Really close, so it’s hot too.  Getting on for 1000 degrees C. 
+And it orbits the star every four days, very close in. The distance of 0.05 AU… much closer to the star than Mercury is to the Sun. Here's a diagram of the system, and this is where Mercury’s orbit would be. Really close, so it’s hot too.  Getting on for 1000 degrees C. 
 
 The mass of the planet — how much stuff it’s made off — is probably only half that of Jupiter.  But I’ve said it’s over 1.5 times the radius of Jupiter.  The interpretation is that the atmosphere is heated and expanded out much more than we see for the much cooler Jupiter.
 
@@ -161,7 +161,7 @@ To give you some scale, a person is about that big.
 
 And what it did is stare at one area of the sky.  The telescope has these 21 detectors, and it covered area with lots of stars in it, about 150,000 useful stars.  Although they are generally quite far away. Up to 3,000 light years.
 
-The job of this telescope was to find earth like planets in the HZ, and 186-f was the first confirmed one of these. And it does this staring at this patch, and looking for a dip in the light as a planet passes in front of the star.  That’s called a transit.  Transits might only last a few hours, so it has to stare for as long as it can… for years.
+The job of this telescope was to find Earth like planets in the HZ, and 186-f was the first confirmed one of these. And it does this staring at this patch, and looking for a dip in the light as a planet passes in front of the star.  That’s called a transit.  Transits might only last a few hours, so it has to stare for as long as it can… for years.
 
 And it’s been hugely successful: over 2000 confirmed planets, and 3000 unconfirmed candidates that need to be followed up on… and the reckoning is that 90% will turn out to be confirmed planets. So there’s lots more finds in this data.
 
@@ -213,7 +213,7 @@ Prox C  is bit over 4 light years away, and to put that in context, here are the
 
 Alpha Centauri is a system of two stars, and a third orbiting those two called Proxima Centauri which is the closest to our sun.
 
-Here’s the artist impression: Prox b, with Prox Ci here, and these points, if you can make them out, is the pair of Alpha Centauri A and B. They orbit each other every 80 years.  And we think Prox C orbits them.
+Here’s the artist impression: Prox b, with Prox C here, and these points, if you can make them out, is the pair of Alpha Centauri A and B. They orbit each other every 80 years.  And we think Prox C orbits them.
 
 Prox b was found via the RV method, looking for the wobble of the star. So the mass we know is at least 1.3x Earth, and we don't know the radius. Not yet. It is presumed to be rocky.
 
@@ -241,7 +241,7 @@ I’m mentioning it because there’s been some work looking at whether it is a 
 
 Which would, I guess, make it an exoplanet inside our solar system, which would make a bit of a mess of the definition of “exoplanet”.  
 
-The research puts this at 1% chance at bet. So… if Planet 9 is there, it’s probably not an exoplanet.  But it’s fun to speculate what it might mean if it was, as it’s much closer that Prox b.
+The research puts this at 1% chance at best. So… if Planet 9 is there, it’s probably not an exoplanet.  But it’s fun to speculate what it might mean if it was, as it’s much closer that Prox b.
 
 I have three more exoplanets to show you. And they have some really interesting properties. But we’ll rattle through them… they are food for thought.
 
