@@ -9,7 +9,7 @@ alias: /android-developer-workshop
 tags:
 ---
 
-<a href="https://www.flickr.com/photos/d6y/2117882768" title="At android thing in London by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2232/2117882768_0f32f36687_o.jpg" width="480" height="640" alt="At android thing in London"></a>
+<img src="/img/posts/flkexport2018/2117882768_0f32f36687_o.jpg" width="480" height="640" alt="At android thing in London">
 
 Half-day workshops are great: you get away from distractions; get to ask
 questions and get quick answers to cover off those things that are

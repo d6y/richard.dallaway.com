@@ -47,7 +47,7 @@ For the planet, you add a letter.  The “a” is reserved for the star itself, 
 
 What else do we know? I’ve not memorised all the facts.  I’ve made myself these Exoplanet TopTrumps cards:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/d6y/29322244256/in/datetaken/" title="Exoplanet top trumps"><img src="https://c1.staticflickr.com/9/8277/29322244256_139d231293_z.jpg" width="640" height="640" alt="Exoplanet top trumps"></a>
+<img src="/img/posts/flkexport2018/29322244256_139d231293_z.jpg" width="640" height="640" alt="Exoplanet top trumps">
 
 We know some things about the star, 51 Peg, is about 50 light years away. It’s about the same size as the Sun.
 

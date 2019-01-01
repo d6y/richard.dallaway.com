@@ -9,7 +9,7 @@ alias: /scala-london-coding-dojo
 tags:
 ---
 
-<a href="https://www.flickr.com/photos/d6y/2689665763" title="Gareth is at the keyboard by Richard Dallaway, on Flickr"><img src="https://farm4.staticflickr.com/3199/2689665763_276ff4ce28_z.jpg?zz=1" width="640" height="480" alt="Gareth is at the keyboard"></a>
+<img src="/img/posts/flkexport2018/2689665763_276ff4ce28_z.jpg" width="640" height="480" alt="Gareth is at the keyboard">
 
 [Monday][] was the first [Scala London User Group meeting][] that was
 held around a keyboard. [Robert Rees][] arranged for a room, food, and

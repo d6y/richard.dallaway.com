@@ -9,7 +9,7 @@ alias: /google-ltac
 tags:
 ---
 
-<a href="https://www.flickr.com/photos/d6y/16176588905" title="4ff9dbc9abbf6-11219784-0-media_httpfarm3static_Jhnwk by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8615/16176588905_f6636108ec_o.jpg" width="375" height="261" alt="4ff9dbc9abbf6-11219784-0-media_httpfarm3static_Jhnwk"></a>
+<img src="/img/posts/flkexport2018/16176588905_f6636108ec_o.jpg" width="375" height="261" alt="4ff9dbc9abbf6-11219784-0-media_httpfarm3static_Jhnwk">
 
 Google hosted a Test Automation Conference at their London offices on
 the 7th and 8th of September. The videos of the presentations [are on Google Video][], so rather than do a blow-by-blow account of each talk,
@@ -81,7 +81,7 @@ talk to people and get to the bathroom and get some more coffee. Shame
 it clashed with [d.Construct][], but in all other respects it was a
 great success.
 
-<a href="https://www.flickr.com/photos/d6y/16175835792" title="4ff9dbcb682e4-11219784-1-media_httpfarm3static_weiex by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7476/16175835792_d04bf1cb87_o.jpg" width="421" height="321" alt="4ff9dbcb682e4-11219784-1-media_httpfarm3static_weiex"></a>
+<img src="/img/posts/flkexport2018/16175835792_d04bf1cb87_o.jpg" width="421" height="321" alt="4ff9dbcb682e4-11219784-1-media_httpfarm3static_weiex">
 
 Links:
 

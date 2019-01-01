@@ -25,7 +25,7 @@ Maven projects, here's what I do:
 
 The plugins I have look like this:
 
-<a href="https://www.flickr.com/photos/d6y/16150791926" title="4ff9dba17c0b4-11219728-0-media_httpfarm4static_rflEE by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8579/16150791926_b4dd7e0e33_o.jpg" width="500" height="330" alt="4ff9dba17c0b4-11219728-0-media_httpfarm4static_rflEE"></a>
+<img src="/img/posts/flkexport2018/16150791926_b4dd7e0e33_o.jpg" width="500" height="330" alt="4ff9dba17c0b4-11219728-0-media_httpfarm4static_rflEE">
 
 ...and it all works very well. The Maven plugin is the [m2 one][].
 

@@ -14,7 +14,7 @@ There were a bunch of themes and ideas that caught my attention at Coed:Ethics. 
 
 <!-- break -->
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/d6y/albums/72157699038573595" title="coed:ethics 2018"><img src="https://farm2.staticflickr.com/1764/42681379534_0ab5e1f0b8_n.jpg" width="320" height="320" alt="coed:ethics 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="/img/posts/flkexport2018/42681379534_0ab5e1f0b8_n.jpg" width="320" height="320" alt="coed:ethics 2018">
 
 
 # Code that harms
@@ -79,9 +79,9 @@ There are two main areas of research I need to do:
 
 I'm looking forward to picking up the discussion later this year at [Good Tech Conf][gt] and at the next [Coed:Ethics][ce] (whenever it might be). Maybe see you there.
 
-Photos: [Flickr]
+I've posted [photos] of the event.
 
-[Flickr]: https://flic.kr/s/aHsmoXBcnD
+[photos]: https://www.icloud.com/sharedalbum/#B0i532ODW4VUvG
 [gt]: https://goodtechconf.org/
 
 

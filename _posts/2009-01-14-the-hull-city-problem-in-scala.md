@@ -8,7 +8,7 @@ date: 2009/01/14
 alias: /the-hull-city-problem-in-scala
 ---
 
-<a href="https://www.flickr.com/photos/d6y/15989274720" title="4ff9dba8e1e8a-11219736-0-media_httpfarm4static_CDdAA by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7575/15989274720_4155a0af72_o.jpg" width="471" height="423" alt="4ff9dba8e1e8a-11219736-0-media_httpfarm4static_CDdAA"></a>
+<img src="/img/posts/flkexport2018/15989274720_4155a0af72_o.jpg" width="471" height="423" alt="4ff9dba8e1e8a-11219736-0-media_httpfarm4static_CDdAA">
 
 Now that I have a physical copy of [Programming in Scala][] next to me,
 the final excuse for me not spending more time with the language has

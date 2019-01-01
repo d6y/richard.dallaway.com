@@ -11,7 +11,7 @@ tags:
 - scala
 ---
 
-<a href="https://www.flickr.com/photos/d6y/15990790837" title="4ff9dbb230bb1-11219739-0-media_httpfarm4static_JFwnG by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7468/15990790837_5f51925163_o.jpg" width="375" height="500" alt="4ff9dbb230bb1-11219739-0-media_httpfarm4static_JFwnG"></a>
+<img src="/img/posts/flkexport2018/15990790837_5f51925163_o.jpg" width="375" height="500" alt="4ff9dbb230bb1-11219739-0-media_httpfarm4static_JFwnG">
 
 Last night was the Brighton Scala User Group pub [meet up][]. For the
 record the conversation covered:
@@ -19,7 +19,7 @@ record the conversation covered:
 -   The Scala Plugin for Eclipse, how it runs on the Mac, how it lives with Maven.
 -   The power of [Aspect Orientated Programming][] for fixing other people's code.
 -   [NIO][].
--   The JVM language summit, and [photos taken][].
+-   The JVM language summit.
 -   Neil Gafter, Closures In Java, what we think NG thinks of Scala.
 -   Refinements, a.k.a. duck typing (see section 3.2.7 and specifically example 3.2.4 on page 22 of the [Language Spec][]).
 -   Invoke dynamic, tail recursion, catching multiple exceptions.
@@ -46,7 +46,6 @@ _UPDATE: This became [Functional Brighton](http://www.meetup.com/Functional-Brig
   [meet up]: http://upcoming.yahoo.com/event/1263871/
   [Aspect Orientated Programming]: http://www.eclipse.org/equinox/incubator/aspects/
   [NIO]: http://en.wikipedia.org/wiki/New_I/O
-  [photos taken]: http://www.flickr.com/photos/montpelier/sets/72157607759681468/
   [Language Spec]: http://www.scala-lang.org/node/198
   [next event]: http://upcoming.yahoo.com/event/1348516/
 

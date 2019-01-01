@@ -21,7 +21,7 @@ that you can hack the mobility downloads to make it run on Mac OS X, so
 I took the plunge with it under NetBeans 5.5 beta with the enterprise
 pack. And sure, it works:
 
-<a href="https://www.flickr.com/photos/d6y/2050010326" title="Netbeans on Mac by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2383/2050010326_d942fa9ea0_o.png" width="525" height="343" alt="Netbeans on Mac"></a>
+<img src="/img/posts/flkexport2018/2050010326_d942fa9ea0_o.png" width="525" height="343" alt="Netbeans on Mac">
 
 A couple of differences from the blog instructions: I didn't add a JDK
 class set to my path when setting up the platform, I added the MIDP API

@@ -10,7 +10,7 @@ tags:
 ---
 
 
-<a href="https://www.flickr.com/search/?text=futureofmobile&sort=relevance&user_id=83551313%40N00" title="Daniel Appelquist by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2104/2017938498_ed1f422b09_z.jpg?zz=1" width="480" height="640" alt="Daniel Appelquist"></a>
+<img src="/img/posts/flkexport2018/2017938498_ed1f422b09_z.jpg" width="480" height="640" alt="Daniel Appelquist">
 
 What follows are the remarks or thoughts I noted down...
 

@@ -9,7 +9,7 @@ alias: /sony-ericsson-v800
 tags:
 ---
 
-<a href="https://www.flickr.com/photos/d6y/2049223809" title="v800 by Richard Dallaway, on Flickr"><img src="https://farm3.staticflickr.com/2018/2049223809_f7394803c7_o.jpg" width="275" height="291" alt="v800"></a>
+<img src="/img/posts/flkexport2018/2049223809_f7394803c7_o.jpg" width="275" height="291" alt="v800">
 
 It's been a few months since I moved away from a [P800][] to a [V800][].
 I wanted a handset that had good enough PIM functions, that would [sync

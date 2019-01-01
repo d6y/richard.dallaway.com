@@ -9,7 +9,7 @@ alias: /barcamp-brighton-2007
 tags:
 ---
 
-<a href="https://www.flickr.com/search/?tags=barcampbrighton2007&sort=relevance&user_id=83551313%40N00" title="Playing css specificity snap by Richard Dallaway, on Flickr"><img src="https://farm2.staticflickr.com/1166/1351383687_e07bac362a_z.jpg?zz=1" width="480" height="640" alt="Playing css specificity snap"></a>
+<img src="/img/posts/flkexport2018/1351383687_e07bac362a_z.jpg" width="480" height="640" alt="Playing css specificity snap">
 
 Tick... I've now attended a BarCamp. I absolutely loved it: many topics + small groups = a great opportunity to learn and chat about [lots of stuff][].
 
