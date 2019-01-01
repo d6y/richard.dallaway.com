@@ -10,7 +10,7 @@ tags:
 - events
 ---
 
-<a href="https://www.flickr.com/photos/d6y/15989274240" title="4ff9dbad4d016-11219738-0-media_httpfarm4static_Akglg by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7463/15989274240_ae793c5922_o.jpg" width="500" height="375" alt="4ff9dbad4d016-11219738-0-media_httpfarm4static_Akglg"></a>
+<img src="/img/posts/flkexport2018/15989274240_ae793c5922_o.jpg" width="500" height="375" alt="4ff9dbad4d016-11219738-0-media_httpfarm4static_Akglg">
 
 There's something right about [£5 App][] running a demo/game/fun
 [event][] as the [Xmas special][]. I mean, how does this sound: I turn
@@ -25,7 +25,7 @@ interactive fiction (a.k.a., group-generated text adventure), namely
 Maybe it's because of the fun we had the previous day at the Flash [Big Screen Bonanza][], or perhaps it's because I'd been noodling with
 [JavaFX][], but I found [Seb][]'s Flash 3D and augmented reality demos great fun.
 
-<a href="https://www.flickr.com/photos/d6y/16150791456" title="4ff9dbaf164ef-11219738-1-media_httpfarm4static_hGxpG by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7524/16150791456_4f7b370cec_o.jpg" width="500" height="375" alt="4ff9dbaf164ef-11219738-1-media_httpfarm4static_hGxpG"></a>
+<img src="/img/posts/flkexport2018/16150791456_4f7b370cec_o.jpg" width="500" height="375" alt="4ff9dbaf164ef-11219738-1-media_httpfarm4static_hGxpG">
 
 I'd say, of the evening, the biggest wow! was when Seb showed us the
 [augmented reality stuff][]; and the biggest round of applause of the
@@ -37,7 +37,7 @@ out [the PDF symbol][], click the start button (and right click and
 select "USB camera" in settings, but you may not have to do that), and
 hold up the symbol you can try it yourself. It's not bad, eh?
 
-<a href="https://www.flickr.com/photos/d6y/15989151768" title="4ff9dbb093baf-11219738-2-media_httpfarm4static_tcive by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7564/15989151768_21e6013635_o.jpg" width="500" height="357" alt="4ff9dbb093baf-11219738-2-media_httpfarm4static_tcive"></a>
+<img src="/img/posts/flkexport2018/15989151768_21e6013635_o.jpg" width="500" height="357" alt="4ff9dbb093baf-11219738-2-media_httpfarm4static_tcive">
 
 The underlying tech seems to be from the C [ARToolKit][], which is
 available under [the GPL and other licenses][]. Given that the

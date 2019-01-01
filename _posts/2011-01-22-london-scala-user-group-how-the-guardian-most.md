@@ -11,7 +11,7 @@ tags:
 - events
 ---
 
-<a href="https://www.flickr.com/photos/d6y/16111623650" title="LSUG Guardian Event 2011 by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7515/16111623650_46865c349b_z.jpg" width="640" height="210" alt="LSUG Guardian Event 2011"></a>
+<img src="/img/posts/flkexport2018/16111623650_46865c349b_z.jpg" width="640" height="210" alt="LSUG Guardian Event 2011">
 
 [Graham Tackley][] spoke at a packed [LSUG][] about how
 [guardian.co.uk][] implemented their first Scala project, [the content

@@ -29,7 +29,7 @@ thanks to those behind it. I think most people were weirded by
 attending an open source jam and signing an NDA :-/ But let's face it,
 no-one was going to not sign.
 
-<a href="https://www.flickr.com/photos/d6y/15989272980" title="4ff9dbc76cc2d-11219766-0-media_httpfarm3static_mqizs by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7493/15989272980_18d377420c_o.jpg" width="458" height="252" alt="4ff9dbc76cc2d-11219766-0-media_httpfarm3static_mqizs"></a>
+<img src="/img/posts/flkexport2018/15989272980_18d377420c_o.jpg" width="458" height="252" alt="4ff9dbc76cc2d-11219766-0-media_httpfarm3static_mqizs">
 
   [Google London Open Source Jam 3]: http://www.red-bean.com/ospowiki/LondonOpenSourceJam03
   [talks]: http://www.red-bean.com/ospowiki/LondonOpenSourceJam03Talks

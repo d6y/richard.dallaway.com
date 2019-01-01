@@ -9,7 +9,7 @@ alias: /london-java-community-unconference-1
 tags:
 ---
 
-<a href="https://www.flickr.com/photos/d6y/15990532579" title="4ff9db9fbb57b-11219720-0-media_httpfarm3static_ChEED by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7560/15990532579_502e1457c8_o.jpg" width="500" height="375" alt="4ff9db9fbb57b-11219720-0-media_httpfarm3static_ChEED"></a>
+<img src="/img/posts/flkexport2018/15990532579_502e1457c8_o.jpg" width="500" height="375" alt="4ff9db9fbb57b-11219720-0-media_httpfarm3static_ChEED">
 
 Congratulations to the organizers of the [London Java Community][]: the
 first unconference was a success.
@@ -64,10 +64,10 @@ Twitter is [#ljcuc1][].
   [Southbank building]: http://www-304.ibm.com/jct01005c/isv/spc/southbank.html
   [The slides from my session]: https://docs.google.com/fileview?id=0B0EWEdbeorKeYWZhYzg4MGEtMGY2YS00NzVkLWIwOTYtMzFkMzA5YTY0Zjg5&hl=en
   [scala-lang.org]: http://www.scala-lang.org/
-  [http://daily-scala.blogspot.com/]: daily-scala.blogspot.com
+  [http://daily-scala.blogspot.com/]: http://daily-scala.blogspot.com
   [Scala Users mailing lis]: http://www.scala-lang.org/node/199#scala-user%20
   [lsug.org]: http://lsug.org
   [Skillsmatter]: http://skillsmatter.com/go/java-jee
-  [my photos of the event]: https://www.flickr.com/search/?text=ljcuc1&sort=relevance&user_id=83551313%40N00
+  [my photos of the event]: https://www.icloud.com/sharedalbum/#B0iGWZuqDGYyQkJ
   [#ljcuc1]: http://twitter.com/#search?q=ljcuc1
 

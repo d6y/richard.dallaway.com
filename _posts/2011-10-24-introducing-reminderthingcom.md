@@ -9,7 +9,9 @@ alias: /introducing-reminderthingcom
 tags:
 ---
 
-<object style="margin-left: 40px; width:500px" height="375" width="500"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fd6y%2Fsets%2F72157627781926581%2F%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fd6y%2Fsets%2F72157627781926581%2F&amp;set_id=72157627781926581&amp;jump_to=" /></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /></param> <param name="allowFullScreen" value="true" /></param><embed src="//www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" type="application/x-shockwave-flash" height="375" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fd6y%2Fsets%2F72157627781926581%2F%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fd6y%2Fsets%2F72157627781926581%2F&amp;set_id=72157627781926581&amp;jump_to=" width="500"></embed></object>
+<a href="https://www.icloud.com/sharedalbum/#B0iG4TcsmGXVBAY">
+<img src="/img/posts/flkexport2018/rt640x361.jpg" width="640" height="361">
+</a>
 
 We rarely get to talk about our Lift work, but I can talk about this one
 because it's been a Sunday afternoon project for a while.  

@@ -9,7 +9,7 @@ alias: /still-loving-the-scala
 tags:
 ---
 
-<a href="http://www.flickr.com/photos/janed/3484475728/"><img src="http://farm4.static.flickr.com/3392/3484475728_abbde18362.jpg"/></a>
+<img src="/img/posts/flkexport2018/3484475728_abbde18362.jpg"/>
 
 The other night I sat down to satisfy just one more quick-fix
 screen-scraping twitter-based itch. Of course I decided to scratch using
@@ -19,8 +19,8 @@ I write software.
 
 Here's the itch: If you live in the centre of the pebble-beach city of
 Brighton, and have a dog, the tide times become really interesting,
-because at low tide sand is revealed, and [sand is fantastic to play
-fetch in][]. You can get [Brighton tide times from VisitBrighton.com][],
+because at low tide sand is revealed, and sand is fantastic to play
+fetch in. You can get [Brighton tide times from VisitBrighton.com][],
 but of course I want the information at the point I'm going to use it.
 And for me, that means I want a tweet at 6:30 every morning. And so,
 [@brightontide][] was born (I'm still chatting about copyright with the
@@ -65,7 +65,7 @@ it saved me a couple of loops.
 The regular expression is a bit hairy. You can figure out what's going
 on if you view the source of the page:
 
-<a href="https://www.flickr.com/photos/d6y/15989274350" title="4ff9dba312036-11219733-0-media_httpfarm4static_pGgaD by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7550/15989274350_878f87c8b7_o.jpg" width="500" height="452" alt="4ff9dba312036-11219733-0-media_httpfarm4static_pGgaD"></a>
+<img src="/img/posts/flkexport2018/15989274350_878f87c8b7_o.jpg" width="500" height="452" alt="4ff9dba312036-11219733-0-media_httpfarm4static_pGgaD">
 
 
 But that code is going to need a unit test. But how to "mock out" the
@@ -135,7 +135,6 @@ passwords baked into the source?) but it was an absolute joy and
 pleasure to write it in Scala.
 
 
-  [sand is fantastic to play fetch in]: http://www.flickr.com/photos/janed/sets/72157617444708930/
   [Brighton tide times from VisitBrighton.com]: http://www.visitbrighton.com/site/tourist-information/tide-timetables
   [@brightontide]: http://twitter.com/brightontide
   [Joda Time]: http://joda-time.sourceforge.net/

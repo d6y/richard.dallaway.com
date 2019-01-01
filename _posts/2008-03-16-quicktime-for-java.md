@@ -25,17 +25,17 @@ yet.
 The particular test that interested me was was taking a camera phone
 photo, resizing it and rotating it. Here's an example original:
 
-<a href="https://www.flickr.com/photos/d6y/16174715951" title="Jack by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7462/16174715951_8c4004c911_o.jpg" width="375" height="500" alt="Jack"></a>
+<img src="/img/posts/flkexport2018/16174715951_8c4004c911_o.jpg" width="375" height="500" alt="Jack">
 
 Here's the rotation using tried-and-trusted [AffineTransform][] plus
 [ImageIO][]:
 
-<a href="https://www.flickr.com/photos/d6y/16109791797" title="affine by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7477/16109791797_6db6396f67_o.jpg" width="733" height="550" alt="affine"></a>
+<img src="/img/posts/flkexport2018/16109791797_6db6396f67_o.jpg" width="733" height="550" alt="affine">
 
 And here's the same transformation run through QuickTime for Java using
 the `GraphicsImporter` and `Matrix` objects:
 
-<a href="https://www.flickr.com/photos/d6y/16294797722" title="matrix by Richard Dallaway, on Flickr"><img src="https://farm8.staticflickr.com/7580/16294797722_594b7ebc20_o.jpg" width="733" height="550" alt="matrix"></a>
+<img src="/img/posts/flkexport2018/16294797722_594b7ebc20_o.jpg" width="733" height="550" alt="matrix">
 
 Now, it's subtle but the QT4J image looks to have sharper colours, and
 seems to be a better representation of the original input. It's also 20k

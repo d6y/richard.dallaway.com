@@ -24,7 +24,9 @@ _Update Update_: Scrub that, I'm now using [Jekyll](http://jekyllrb.com/) to gen
 
 Flickr is wonderful, unless you have comments and have annotated images: that stuff can't be exported. So I've abandoned Flickr for [OpenPhoto](http://theopenphotoproject.org/), which, although not as polished or feature-rich as Flickr (!) it has been created as "a cloud based open source photo sharing service where you own and control the photos, tags and comments". Since being [kickstarted](http://www.kickstarter.com/projects/jmathai/openphoto-a-photo-service-for-your-s3-or-dropbox-a) it has recently added Flickr import.
 
-_Update_: OpenPhoto became Trovebox, which closed in 2015. I'm back to Flickr, reasoning the next replacement will be able to import from Flickr.
+_Update 1_: OpenPhoto became Trovebox, which closed in 2015. I'm back to Flickr, reasoning the next replacement will be able to import from Flickr.
+
+_Update 2_: Concluded that it's best to host images yourselves if you can.
 
 ## What about Twitter?
 

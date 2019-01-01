@@ -11,7 +11,7 @@ tags:
 - scala
 ---
 
-<a href="https://www.flickr.com/photos/d6y/16175837632" title="Scala and Wicket by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8644/16175837632_cea02fd687_o.jpg" width="500" height="375" alt="Scala and Wicket"></a>
+<img src="/img/posts/flkexport2018/16175837632_cea02fd687_o.jpg" width="500" height="375" alt="Scala and Wicket">
 
 I know next to nothing about the [Wicket][] web framework, but I was
 intrigued by the [jWeekend][] [London Wicket User's Group][] meet up

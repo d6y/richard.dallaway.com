@@ -9,7 +9,7 @@ alias: /sbt-terminal-in-eclipse
 tags:
 ---
 
-<a href="https://www.flickr.com/photos/d6y/16150789236" title="4ff9dbd6dbe3b-35137865-0-0_Install by Richard Dallaway, on Flickr"><img src="https://farm9.staticflickr.com/8601/16150789236_fac6330d36_o.png" width="576" height="576" alt="4ff9dbd6dbe3b-35137865-0-0_Install"></a>
+<img src="/img/posts/flkexport2018/16150789236_fac6330d36_o.png" width="576" height="576" alt="4ff9dbd6dbe3b-35137865-0-0_Install">
 
 Mostly when I'm writing code I'm in the [Scala IDE for Eclipse][], with
 a separate terminal window containing SBT running `~test-quick` or
