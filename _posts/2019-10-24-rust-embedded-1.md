@@ -4,7 +4,7 @@ title:      "Brighton Rust: Embedded systems, day 1"
 author:     "Richard Dallaway"
 ---
 
-The Brighton Rust group has been learning how to run Rust programs on embedded hardware.
+The Brighton Rust group has been learning how to run Rust programs "bare metal" on embedded hardware.
 That is, hardware without any operating system: an Arm chip, some memory, the odd button and a few LEDs.
 
 Tim kindly lead us through "hello world", and these are my notes on what we did, specifically on macOS.
@@ -32,7 +32,7 @@ We're working with a STM32 Nucleo-64 device:
 
 <img src="/img/posts/2019-rust-embedded/f411re-320x320.jpg" width="320" height="320" alt="photo of the hardware, a Nucleo 64 board">
 
-That's a Arm Cortex-M4 chip plus a programmer/debugger so we can send it compiled code,
+This one has an Arm Cortex-M4 chip plus a programmer/debugger so we can send it compiled code,
 and debug the code as it runs.
 More on the hardware and what all that means later.
 
@@ -132,6 +132,8 @@ The `#![no_std]` attribute opts out of the Rust standard library.
 That's because the standard library assumes we have I/O interfaces and other items provided by an operating system. But we don't have an operating system on the hardware.
 What we get instead is a core library giving us the essentials of Rust.
 
+Tim pointed out that you can run a Real Time Operating System on this kind of hardware. However, using "bare metal" Rust means you can make use of the borrow checker and type system to give safe access to registers and other mutable state.
+
 The `extern crate panic_halt` line is selecting how we want to handle program panics.
 A panic is something you might do in code, and the behaviour is defined in Rust with a standard library.
 Without the standard library, we get to pick what behaviour we want.
@@ -166,7 +168,7 @@ As our program is the only thing running on the hardware,
 chances are we don't want it to stop.
 
 Finally, `hprintln!` and `debug` are from the "semihosting" package.
-Semihosting allows the Arm process to make use of I/O on the host computer (i.e., my laptop).
+Semihosting allows the Arm processor to make use of I/O on the host computer (i.e., my laptop).
 In other words, we see debug output on a laptop terminal window without any extra cables.
 The `hprintln!` does what you think it does, and the `debug::exit` reports a success status code back to the debugger.
 
@@ -186,7 +188,7 @@ Now there are a lot of names and numbers floating around.
 The above target is:
     - `thumb` is an instruction set from Arm, so this is the ARMv7E-M architecture (a microcontroller profile)
     - `none` for the vendor, for reasons I don't understand
-    - `eabihf` is  made up of Embedded Application Binary Interface (a standard for the way the hardware works) and hf for floating point hardware.
+    - `eabihf` is  made up of Embedded Application Binary Interface (a standard to layout data in a chip's memory and registers so that different pieces of software can inter-operate) and `hf` for floating point hardware.
 - The hardware is STM32F411RE:
     - ST is the name of the company that makes the hardware
     - 32 because it's a 32 bit processor
@@ -222,3 +224,5 @@ One for next time.
 All of this is in [the Rust Embedded book][book], along with plenty more. Well worth browsing.
 
 The code I've used is in [a repository on Github][final].
+
+_Thanks to Tim for suggestions on improving this post._
