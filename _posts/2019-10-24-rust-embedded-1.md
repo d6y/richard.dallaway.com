@@ -96,7 +96,7 @@ fn main() -> ! {
 }
 ```
 
-Part of that code are unfamiliar to me, but I'll come back to that in a minute.
+Parts of that code are unfamiliar to me, but I'll come back to that in a minute.
 For now, compile the code:
 
 ```
