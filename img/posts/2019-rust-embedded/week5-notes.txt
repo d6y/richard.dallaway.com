@@ -1,0 +1,40 @@
+d6y
+TimSmall: On the red wire, am I right in thinking you've added a resistor to the end. Is that to reduce the current... because... if we had lots of lights on we'd be asking for 50 X some amount of current? Which would probably be a number that's unreasonable for USB?
+TimSmall
+A diode has been added to reduce the supply voltage by approx 0.7 volts (this is the diode's "forward bias voltage", or just "forward voltage".
+USB supplies 5 volts (actually the specification appears to allow it to be between 4.45v and 5.5v - depending on the particular version of USB according to: https://electronics.stackexchange.com/a/36003 )
+
+Proper behavior for USB and +5V - Electrical Engineering Stack Exchange
+I have a batch of Sanguino 1.3a RepRap boards, with the following "bug" listed: The USB 5V VBUS is connected to the output of the 5V regulator. This is bad for the regulator and bad for the PC. ...
+d6y
+Ah. Right. I had the wrong end of the stick.
+TimSmall
+This is needed in order to keep within spec for the LED driver chip - which according to the specification requires its data input to be at least 0.7 times the supply voltage to be considered "logic high".
+The microcontroller outputs 0v on the signalling pin that we are using to indicate a "logic low" and 3.3v to indicate "logic high".
+d6y
+Thanks!
+TimSmall
+3.3v / 0.7 = 4.71v
+So if we drop the supply voltage for the led controller chip to 4.71v or less, then we are complying with the spec.
+There are a couple of issues with the hack that I've already done - one is that it's a little wasteful - in dropping the voltage by 0.7v, it will waste energy (watts = volts * amps), secondly if we used a high current USB supply for the LEDs, then we might put too much current through the diode, and let the magic smoke out of it.
+TimSmall
+Some alternatives might be to:
+Only supply the first LED in the chain through the diode, and supply the remaining ones directly from the 5v supply. This works because the chips regenerate the data stream (they have to because they must subtract 1 from the address of each message) - so the first LED in the chain will be happy with a 0-3.3v input, but will in turn generate its own 0-4.3v output (because it's being supplied with 4.3v via the diode). The second LED driver in the chain will be happy with 4.3v because it's being supplied with 5v, and the 4.3v input is above its 5v * 0.7 = 3.5v threshold for a "logic high" state.
+Instead use the level converter modules which we now have (I bought 5, and jimxbob bought another 5) - this will change the 0-3.3v data output signal from the microcontroller into a 0-5v signal (although the one we hooked up Fran's LEDs with didn't actually work, so I switch to the diode hack instead).
+d6y
+ Ok - that makes sense. And this is all independent of the number of LEDs we light up.
+TimSmall
+The more LEDs we have on, the greater the current draw.  The two possible problems are that in the current configuration we might overload the diode, and if we are powering the string from the USB port of a computer it might get unhappy with the current draw and shut off power to the USB port (according to the USB 2 spec - which the Nucleo board will identify itself as - they should do this at 2.5 watts, but in fact most USB ports on newer computers are more permissive).
+Common USB "phone charger" power supplies will supply 2 amps (so 10 watts), and some will do 3.1 amps (so 15 watts).
+TimSmall
+Generally these USB supplied drop the voltage ouput once they've reached their current limit, which should in practise end up dimming the LEDs, but hopefully not sagging so low that the microcontroller resets.  The spec on the Aliexpress listing says "0.3W/pcs" - which I assume means 0.3W per LED max.  This would be 0.3W * 50 for all LEDs (I assume with all set to r/g/b 255/255/255 - which is a bit of a boring effect).
+0.3W * 50 = 15 watts.
+If on the other hand we wanted to limit the overall draw to something less than that, then I suppose we could fix that in software - i.e. dim down the brightness to keep within the power limit.
+d6y
+There should be some kind of prize for "Best Effect Using Least Number of Watts" or similar.
+TimSmall
+I'd guess that in practise for effects we're likely to want to use they'll probably be drawing 5w or less.
+That's from the LEDs, and doesn't include the current draw of the microcontroller - but I think that should be under half a watt.
+ For comparison (and although RGB LEDs are a bit less efficient than white ones) a 10W LED light bulb is usually quoted to be as bright as a 100w traditional light bulb.
+d6y
+Thanks Tim - that's helped tons 🙏
