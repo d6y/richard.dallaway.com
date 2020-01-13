@@ -33,7 +33,7 @@ I suggest you permanently connect the Findster to a collar.
 The original Findster attached with velcro, which worked fine as long as you took the time to get it tight and secure. I didn't, and we lost that one somewhere down a rabbit warren.
 
 The replacement came with a base plate that the Findster can slot into.
-You'd attach this to the collar using a loop of material.
+You'd attach this base plate to the collar using a loop of material.
 It fastened with a pin (or stud) mechanism.
 That seemed to be pretty solid, but we lost that one in some undergrowth.
 We searched for a good 15 minutes where FIndster directed us, but we couldn't spot it.
