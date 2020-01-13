@@ -12,6 +12,7 @@ They are: permanently attach the Findster to a collar; and start the app early i
 
 [Findster Duo]: https://getfindster.com/
 [post1]: https://richard.dallaway.com/2017/09/10/findster.html
+[video]: https://support.getfindster.com/hc/en-us/articles/115004507565-6-Attaching-detaching-the-Pet-module-to-from-a-collar-
 
 # Recap
 
@@ -34,10 +35,10 @@ The original Findster attached with velcro, which worked fine as long as you too
 
 The replacement came with a base plate that the Findster can slot into.
 You'd attach this base plate to the collar using a loop of material.
-It fastened with a pin (or stud) mechanism.
+It fastened with a pin (or stud) mechanism, as shown in their [support video][video].
+
 That seemed to be pretty solid, but we lost that one in some undergrowth.
 We searched for a good 15 minutes where FIndster directed us, but we couldn't spot it.
-
 The third unit had changed to a kind of screw mechanism for attaching the base plate. 
 That became loose very quickly, and I never trusted it.
 
