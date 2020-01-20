@@ -386,6 +386,8 @@ Most of the time I'll encode errors into a module (or application) specific enum
 [gb]: https://books.google.co.uk/books?id=0Evsbi34TlcC&pg=PA255&dq=pop11+mishap&hl=en&sa=X&ved=0ahUKEwiEoLbM25DnAhWIYcAKHc7mDAIQ6AEISjAE#v=onepage&q=pop11%20mishap&f=false
 [ti]: https://rust-lang.github.io/rustc-guide/type-inference.html#type-inference
 [apiresult]: https://doc.rust-lang.org/std/result/enum.Result.html
+[morf]: https://doc.rust-lang.org/book/ch10-01-syntax.html?#performance-of-code-using-generics
+[to]: https://doc.rust-lang.org/book/ch17-02-trait-objects.html#trait-objects-perform-dynamic-dispatch
 
 - [Recoverable Errors with `Result`][book] from the Rust book is the introduction to `Result`.
 - The [API documentation for `Result`][apiresult] gives details on the methods and implementations available from the standard library.
@@ -393,6 +395,7 @@ Most of the time I'll encode errors into a module (or application) specific enum
 - The [Scala Cats documentation discusses `Either`][cats], and how to define application-level errors.
 - I found Josh Leeb-du Toit's 2018 post on [Traits and Trait Objects in Rust][ttor] a great help.
 - The [rustc guide discusses Rust type inference][ti].
+- When comparing `dyn` to a known type a compile time, I was alluding to [monomorphization](morf) and [trait objects][to] using dynamic dispatch.
 - I used [the thiserror crate][thiserror] in this post, but [snafu] looks good too. There's a good general [discussion at Reddit on error crates][reddit].
 - In terms of ignoring errors to some degree, [anyhow] looks very tempting.
 - I used `Mishap` as an enum name in this post. This is the name given to errors in POP-11 because [it causes less distress than the word Error][gb].
