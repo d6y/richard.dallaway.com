@@ -9,7 +9,7 @@ alias: /slides-from-adding-machine-learning-to-a-web
 tags:
 ---
 
-<iframe scrolling="no" marginheight="0" marginwidth="0" src="http://www.slideshare.net/slideshow/embed_code/8760886" frameborder="0" height="355" width="425"></iframe>
+<script async class="speakerdeck-embed" data-id="4e81c6f02ad818006000edab" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Pretty much the simplest thing you can do to get started with machine
 learning in a web app. These are my slides from BathCamp AI night.
