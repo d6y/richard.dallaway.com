@@ -28,3 +28,17 @@ blockquote {
   border-left: 2px solid #eeeeee;
   padding: 2px 27px;
 }
+
+
+/* Definitions as a <ul> */
+ul.def-list {
+  list-style-position: outside;
+  padding: 0;
+  margin: 1em;
+  text-indent: -1em;
+  list-style-type: none;
+}
+
+ul.def-list li {
+  margin-bottom: 0.5em;
+}
