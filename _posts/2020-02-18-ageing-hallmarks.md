@@ -9,6 +9,12 @@ I've been learning about biological ageing over the last few months for a projec
 
 <!-- break -->
 
+# Contents
+{:.no_toc}
+
+1. Contents
+{:toc}
+
 # Sources
 
 The primary sources for this post are:
@@ -103,7 +109,7 @@ The final two hallmarks are the result of the other seven we've seen:
 In summary:
 > "The primary hallmarks could be the initiating triggers whose damaging consequences progressively accumulate with time. The antagonistic hallmarks, being in principle beneficial, become progressively negative in a process that is partly promoted or accelerated by the primary hallmarks. Finally, the integrative hallmarks arise when the accumulated damage caused by the primary and antagonistic hallmarks cannot be compensated by tissue homeostatic mechanisms. Because the hallmarks co-occur during aging and are interconnected, understanding their exact causal network is an exciting challenge for future work" (_The Hallmarks of Aging_, p. 1209).
 
-# Suggestions for treatments
+# Example suggestions for treatments
 
 There's plenty of evidence to accompany the hallmarks, and that evidence suggests interventions to reduce ageing. Here are a couple of them.
 
@@ -163,6 +169,7 @@ If you're interested in learning more, scroll down through the reading below. Do
 </ul> 
 
 ## Popular science and news
+{:.no_toc}
 
 [mindscape]: https://www.preposterousuniverse.com/podcast/2018/10/01/episode-16-coleen-murphy-on-aging-biology-and-the-future/
 [rev]: https://www.goodreads.com/book/show/12414734-the-epigenetics-revolution
@@ -188,6 +195,6 @@ If you're interested in learning more, scroll down through the reading below. Do
     <a href="https://www.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry">Scientists harness AI to reverse ageing in billion-dollar industry</a>, <em>The Guardian</em>, 21 Dec 2019. This item is on the recent focus and investment in the race “to find proven ways to help people live longer, healthier lives”.
   </li>
   <li>
-    A fantastic 10-minute <a href="https://www.youtube.com/watch?v=leI70P-rEAk">video on <em>Extending Human Lifespan</em></a> by Kristen Fortney. It covers the ideas, history, and interventions relating to extending lifespan (thank you Suran for this link)
+    A fantastic 10-minute <a href="https://www.youtube.com/watch?v=leI70P-rEAk">video on <em>Extending Human Lifespan</em></a> by Kristen Fortney. It covers the ideas, history, and interventions relating to extending lifespan (thank you Suran for this link).
   </li>
 </ul>
