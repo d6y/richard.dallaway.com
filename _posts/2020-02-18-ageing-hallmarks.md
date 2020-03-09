@@ -35,7 +35,7 @@ Where does this decline come from? In general, it is:
 
 - the accumulation of damage; and
 
-- over-activity of some processes leading to disease.
+- over-activity of some processes leading to disease (which I've discussed in more detail in a post on [quasi-programs](https://richard.dallaway.com/2020/03/09/hyperfunction.html)).
 
 ## Why does it matter?
 
@@ -93,7 +93,7 @@ Bear in mind that cause and correction aren't fully worked out. But the items li
 ## Responses to damage 
 This second group of hallmarks are beneficial in low doses (offering some kind of protection or repair), and bad when high (which happens during ageing).
 
-- Deregulated nutrient sensing. The idea here is that you survive for longer if you have lower rates of cell growth and metabolism (giving lower rates of damage). In other words, decreased nutrient sensing increases longevity. Although this happens as we age, there's strong evidence (not just in mice) that explicit dietary restriction increases lifespan and healthspan.
+- Deregulated nutrient sensing. One idea here is that you survive for longer if you have lower rates of cell growth and metabolism (giving lower rates of damage). In other words, decreased nutrient sensing increases longevity. Although this happens as we age, there's strong evidence (not just in mice) that explicit dietary restriction increases lifespan and healthspan.
 
 - Mitochondrial dysfunction. The "powerhouse of the cells" lose efficiency over time. Terrible news, but surprisingly (to me) limited "mitochondrial poisoning"  increases efficiency. This is an example of how a small amount of stress can help as our bodies compensate (but only up to a point).
 
