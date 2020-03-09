@@ -5,7 +5,7 @@ author: Richard Dallaway
 layout: post
 ---
 
-What are the causes of ageing? Is it the accumulation of damage, or over-running healthy development? The later is addressed on _Aging is not programmed:
+What are the causes of ageing? Is it the accumulation of damage, or over-running healthy development? The latter is addressed on _Aging is not programmed:
 Genetic pseudo-program is a shadow of developmental growth_, and these are my notes on that paper.
 
 <!-- break -->
