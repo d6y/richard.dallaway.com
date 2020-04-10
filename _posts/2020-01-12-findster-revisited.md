@@ -81,5 +81,5 @@ and learned that it's best to start the app when you're in an area of good recep
 
 If you're thinking of buying one,
 and you've found these posts useful, 
-you can get 10% off using code ZAI4D at [https://getfindster.com](https://getfindster.com).
+you can get 10% off using code M1JWL at [https://getfindster.com](https://getfindster.com).
 
