@@ -90,7 +90,10 @@ Perhaps in the future (issue [388]) the library will return an immutable `Seq`.
 
 I'm not aware of a [scalafix] for this change, but if anyone knows of one, do share it.
 
+_Thanks to [Miles] for help with understanding this issue._
+
 [migration guide]: https://docs.scala-lang.org/overviews/core/collections-migration-213.html
 [scalafix]: https://scalacenter.github.io/scalafix/
 [Play JSON]: https://github.com/playframework/play-json
 [388]: https://github.com/playframework/play-json/issues/388
+[Miles]: https://twitter.com/milessabin/
