@@ -69,12 +69,14 @@ What does this code do?
 
 You can try it in [Scastie](https://scastie.scala-lang.org/d6y/zC8ALBU8RZe573GPAxL40w/4), adjusting the compiler in "Build settings".
 
-The fix in this case could be to be more specific in our match:
+The fix in this case could be to specify which `Seq` we mean:
 
 ```
 case JsArray(scala.collection.Seq(s1, s2)) =>
   println(s"Matched: $s1, $s2")
 ```
+
+In other words, we've loosened the match, no longer demanding an immutable `Seq`.
 
 Perhaps in the future (issue [388]) the library will return an immutable `Seq`.
 
