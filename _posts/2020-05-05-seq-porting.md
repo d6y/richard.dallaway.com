@@ -24,7 +24,7 @@ The short-term cost to this gain is an issue under specific circumstances.
 If:
 
 - you use pattern matching on a `scala.Seq` (or `IndexedSeq`) in 2.12
-- where the `scala.Seq` comes from a library
+- where the `Seq` comes from a library
 - and you upgrade to 2.13
 
 ...then you may find your patterns no longer match at runtime.
@@ -33,7 +33,7 @@ The reason is that in 2.12 your `Seq` is the agnostic `scala.collection.Seq`,
 but in 2.13 it's the strong `scala.collection.immutable.Seq`. 
 
 The library, however, may still be giving you a `scala.collecton.Seq`.
-The 2.13 `Seq` is _specifically_ immutable, which has more constraints on it that `scala.collection.Seq`.
+The 2.13 default `Seq` is _specifically_ immutable, which has more constraints on it that `scala.collection.Seq`.
 They won't match in a pattern.
 
 To be clear, you should check what kind of `Seq` you're getting.
