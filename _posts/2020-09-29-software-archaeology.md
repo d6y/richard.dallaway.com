@@ -20,7 +20,7 @@ The payoff is to "uncover its unusual maze-generation algorithmm [...] and analy
 
 <ul class="def-list">
   <li>Aycock and Copplestone (2019) "Entombed: An archaeological examination of an Atari 2600 game", 
-  _The Art, Science, and Engineering of Programming_, Vol. 3, Issue 2, Article 4. <a href="https://doi.org/10.22152/programming-journal.org/2019/3/4">https://doi.org/10.22152/programming-journal.org/2019/3/4</a>
+  <i>The Art, Science, and Engineering of Programming</i>, Vol. 3, Issue 2, Article 4. <a href="https://doi.org/10.22152/programming-journal.org/2019/3/4">https://doi.org/10.22152/programming-journal.org/2019/3/4</a>
   </li>
   <li>
   Chris Lommont's had a page describing the Pac-Man algorithms at <a href="http://www.lomont.org/software/games/pacman/">http://www.lomont.org/software/games/pacman/</a>. Sadly, "at request of NAMCO", the content has been removed.
