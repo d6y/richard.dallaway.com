@@ -16,7 +16,7 @@ I first saw the phrase in the essay[^1] “Emergent engineering: reframing the g
 Standard engineering has got us a long way. But to go further, it’s time to take a different approach. To “co-opt complexity” against itself.
 
 ## Jiujitsu move
-Time for an example. Right in the introduction of "Rebel Cell"[^2] Kate Arney writes: “...the old models of drug development and clinical trials no longer stand up” (p. xvi).  Why? Our bodies are a patchwork of mutated cells, undergoing evolution on the timescales of cell division. Rather than engineering a wonder drug, we need to find ways to force a population of cells to evolve into a dead end they can’t evolve out of. Like species extinction, but in the landscape of a body. 
+Time for an example. Right in the introduction of "Rebel Cell"[^2] Kate Arney writes: “...the old models of \[cancer\] drug development and clinical trials no longer stand up” (p. xvi).  Why? Our bodies are a patchwork of mutated cells, undergoing evolution on the timescales of cell division. Rather than engineering a wonder drug, we need to find ways to force a population of cells to evolve into a dead end they can’t evolve out of. Like species extinction, but in the landscape of a body. 
 
 She writes:
 > “We have to stop ignoring the evolutionary processes happening right under our noses and not only accept them, but also start using them to our advantage.” (p. 286)
@@ -39,4 +39,4 @@ I’m still getting my head around emergent engineering. I’ll be watching this
 
 [^1]:	The last chapter in David. C. Krakauer (2019) _Worlds Hidden in Plain Sight_: [https://www.sfipress.org/books/worlds-hidden-in-plain-sight](https://www.sfipress.org/books/worlds-hidden-in-plain-sight "Worlds Hidden in Plain Sight").
 
-[^2]: Kate Arney (2020)	_Rebel Cell: Cancer, Evolution and the Science of Life, 2020._ [https://www.rebelcellbook.com/](https://www.rebelcellbook.com/ "Rebel Cell: Cancer, Evolution and the Science of Life")
+[^2]: Kate Arney (2020)	_Rebel Cell: Cancer, Evolution and the Science of Life._ [https://www.rebelcellbook.com/](https://www.rebelcellbook.com/ "Rebel Cell: Cancer, Evolution and the Science of Life")
