@@ -61,6 +61,15 @@ The above is an expected frequency tree. We have 16 rows, and I care about the c
 
 In the end, that highlights three paths of interest: both letters correct, just the first correct, or just the second correct. That's also 7 out of 16.
 
+_Update June 2021:_ This is all the "sum rule" in probability. That is, for this short example of just two letters from four is:
+
+```
+P(A) or P(B) = P(A) + P(B) - P(A, B)
+```
+
+...which is 0.4375 for two 1/4 chances.
+
+
 # The right answer (the short way)
 
 What I need to compute is more along the lines of: _(first letter and not second) or (first and second) or (second and not first)_. That works, but the textbook answer is much clearer.
